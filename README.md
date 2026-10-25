@@ -45,9 +45,8 @@ The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu
 
 ## Publishing
 
-Commit changes to `main`. GitHub Pages builds and publishes the static files. Keep the existing `notebook_images/` and `index.md` teaching/archive files unless their removal is intentional.
+Commit changes to `main`. GitHub Pages builds and publishes the static files. 
 
-The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive, research highlights and joining FAQ are now hosted here.
 
 ## Update the joining FAQ
 
