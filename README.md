@@ -23,6 +23,8 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 
 The site uses plain HTML, CSS and JavaScript. It needs no framework, package install, API key or build step. All content is readable when JavaScript is disabled. The root HTML pages contain the content directly; the JSON records are maintenance and provenance files, with no browser JavaScript dependency.
 
+External web links open in a new tab with `target="_blank"` and `rel="noopener noreferrer"`. Keep these attributes when adding links to other websites. Navigation within this site and email links use their normal behaviour.
+
 ## Preview locally
 
 From the repository directory, run `python3 -m http.server 8000`, then open http://localhost:8000/.
