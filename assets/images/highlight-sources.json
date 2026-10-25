@@ -1,0 +1,70 @@
+{
+  "retrieved_on": "2026-10-25",
+  "figures": [
+    {
+      "id": "brain-robot",
+      "path": "assets/images/highlight-brain-robot.png",
+      "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tXyszBjx-VtOd97UMVCxekGOq3rCm64SNorMGM3d9HChY-LfePAGMf5rXMt6eILQbYkM93YeGUfyCz2qEG08bZaniNvNwIMD1EXJXf069q2cdn-deEXLsaKvm-R9bD_OTAFhHYiUxI75rVp30QJ1vpLs_ipzKWLrBh7aud2-5pJagY0r6xrFaHZK_b2SpzCYzyiSm7_Tj-btakJaDKA_enE_03ndJdlXqPNazYIf8=w1280",
+      "source_page": "https://sites.google.com/site/jiankliu/research-highlights",
+      "dimensions": [
+        1280,
+        991
+      ],
+      "bytes": 1703337,
+      "sha256": "958e544341c5cd2881cc0a7e88cfe58b752e22fca94121ead67232ebadb7918e",
+      "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    },
+    {
+      "id": "gpcr",
+      "path": "assets/images/highlight-gpcr.png",
+      "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vHXmzttvjJ1qiWsuxBNmrB1bKGXKQbGmBEjgEMKe4LPVRG6cZyPRpiEaj7YIRo36GeKoyT4gPvGXwewTwMVyxs5iF1y78yIBCqZ3PES_Vs-p1udyrHfNlOjtPmyNPynfDHke9ZU3Vgv7bEuWbFntzmurYRy4uN6cx05ocUSBPH20KC3htumBYv2jIqVjH06UAGfcxP9nfC-Sn40PqRM_hWwPexyO9NAhckQQecZTU=w1280",
+      "source_page": "https://sites.google.com/site/jiankliu/research-highlights",
+      "dimensions": [
+        773,
+        437
+      ],
+      "bytes": 602641,
+      "sha256": "a64ff732e60e9b696232c35d31d9f44bf1b80df9aa0ebe85b731ed3c42109a4f",
+      "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    },
+    {
+      "id": "seizures",
+      "path": "assets/images/highlight-seizures.png",
+      "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sEPffTy1RjZcBDm_hOK7xdotV8yWu4v6R8Yg24NvQPml8B6-YXBW_YEtbME5s9KIz3Pqfbp4sU6200ZNVuHksGfgkUMLaWdERD5bKEiTiQf1eDSo73VD6NiR2l766oRkA0pk65gB6io-VVHxEhY-o6lmhoe25zLOTYtOtwaa8xsgE9nSuUE2H6MY51RRqjBTQhebAREBwxhClq1TN-hUuh1l5FZd73p5BErOW9=w1280",
+      "source_page": "https://sites.google.com/site/jiankliu/research-highlights",
+      "dimensions": [
+        1024,
+        556
+      ],
+      "bytes": 603799,
+      "sha256": "7e4e893d8e8046981b8ebbc892eb5a1c4c86c638b8e06f1fd3fa850d0659dcfb",
+      "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    },
+    {
+      "id": "wisa",
+      "path": "assets/images/highlight-wisa.png",
+      "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72s2d5BcjwDqVPEkIYKRCDnyTp6MqlhsNGEvqB59aB-NCwsuRaFQYPihBcNyh21g6VWDQ_l7XuzeV08F5xk2msmCoY0kKbX1Cm5RhEaexlVw5a6ZK0_y1DI7twBXoyeAsWgjSt8uUQBickIX21b-wrrBC29MtxEuVt88SZcX93upqFcicJljEs4PT1JTFvWjmafKSVriUtimRwCtitVQwoEe9JYfGLy41d_bZj9cz0s=w1280",
+      "source_page": "https://sites.google.com/site/jiankliu/research-highlights",
+      "dimensions": [
+        1024,
+        496
+      ],
+      "bytes": 657937,
+      "sha256": "3b8d85885389bfb7a48623ff6e64eb47d8ce5923fec360adb1671b66d1ae3b1c",
+      "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    },
+    {
+      "id": "dagml",
+      "path": "assets/images/highlight-dagml.png",
+      "source_url": "https://arxiv.org/html/2601.17102v1/model_arch.png",
+      "source_page": "https://arxiv.org/html/2601.17102v1",
+      "dimensions": [
+        1435,
+        740
+      ],
+      "bytes": 264811,
+      "sha256": "3eb40f40117263619fd65af639f5af3395e641fced7d3edb93e20feaf510d138",
+      "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    }
+  ]
+}
