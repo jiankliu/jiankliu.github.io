@@ -38,12 +38,6 @@
       ],
       "resources": [
         {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2609.16468",
-          "source_url": "https://arxiv.org/abs/2609.16468",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/DSQ",
           "source_url": "https://github.com/jiankliu/DSQ",
@@ -77,22 +71,10 @@
       ],
       "resources": [
         {
-          "label": "Institutional record",
-          "url": "https://research.birmingham.ac.uk/en/publications/seqproft-sequence-only-protein-property-prediction-with-lora-fine/",
-          "source_url": "https://research.birmingham.ac.uk/en/publications/seqproft-sequence-only-protein-property-prediction-with-lora-fine/",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/SeqProFT",
           "source_url": "https://github.com/jiankliu/SeqProFT",
           "source_label": "CODE"
-        },
-        {
-          "label": "Preprint",
-          "url": "https://doi.org/10.48550/arXiv.2411.11530",
-          "source_url": "https://doi.org/10.48550/arXiv.2411.11530",
-          "source_label": "10.48550/arXiv.2411.11530"
         }
       ]
     },
@@ -121,12 +103,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2605.19902",
-          "source_url": "https://arxiv.org/abs/2605.19902",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/HCLBind",
@@ -161,22 +137,10 @@
       ],
       "resources": [
         {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2603.27492",
-          "source_url": "https://arxiv.org/abs/2603.27492",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/ssshiFang/EEGDecoding_Robotarm",
           "source_url": "https://github.com/ssshiFang/EEGDecoding_Robotarm",
           "source_label": "CODE"
-        },
-        {
-          "label": "Published version",
-          "url": "https://doi.org/10.1109/ICAISISAS68969.2026.11567929",
-          "source_url": "https://doi.org/10.1109/ICAISISAS68969.2026.11567929",
-          "source_label": "10.1109/ICAISISAS68969.2026.11567929"
         }
       ]
     },
@@ -216,12 +180,6 @@
           "url": "https://github.com/jiankliu/DAGML",
           "source_url": "https://github.com/jiankliu/DAGML",
           "source_label": "CODE"
-        },
-        {
-          "label": "Published version",
-          "url": "https://doi.org/10.1109/ICBCB69424.2026.11621216",
-          "source_url": "https://doi.org/10.1109/ICBCB69424.2026.11621216",
-          "source_label": "10.1109/ICBCB69424.2026.11621216"
         }
       ]
     },
@@ -1325,12 +1283,6 @@
           "url": "https://github.com/jiankliu/Granular-Layer-Network",
           "source_url": "https://github.com/jiankliu/Granular-Layer-Network",
           "source_label": "Code"
-        },
-        {
-          "label": "Published version",
-          "url": "https://elifesciences.org/articles/15872",
-          "source_url": "https://elifesciences.org/articles/15872",
-          "source_label": "10.7554/eLife.15872"
         }
       ]
     },
@@ -1401,12 +1353,6 @@
           "url": "https://www.jneurosci.org/content/29/42/13172/tab-figures-data",
           "source_url": "http://www.jneurosci.org/content/29/42/13172/tab-figures-data",
           "source_label": "Suppl. Movie"
-        },
-        {
-          "label": "Published version",
-          "url": "https://www.jneurosci.org/content/29/42/13172",
-          "source_url": "http://www.jneurosci.org/content/29/42/13172",
-          "source_label": "10.1523/JNEUROSCI.2358-09.2009"
         }
       ]
     }
