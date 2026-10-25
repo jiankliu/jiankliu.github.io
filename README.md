@@ -52,8 +52,6 @@ Commit changes to `main`. GitHub Pages builds and publishes the static files.
 
 The homepage’s Joining the lab: FAQ link opens `join-us.html`. Keep the eleven questions and their funding, application and lab-life group IDs stable when editing. Each answer uses native `details` and `summary` elements, so it can be expanded with a mouse or keyboard and works without JavaScript. Record the same wording, source evidence and changes in `joining-faq.json`.
 
-The original joining page contained outdated degree, English-test and funding-cycle details. The new FAQ preserves the lab’s guidance while linking to current University of Birmingham requirements. Check the current programme and funding pages before updating eligibility, fee coverage, deadlines or study duration; avoid promising funding or copying a fixed score or deadline without current evidence.
-
 ## Update research highlights
 
 The four Selected work cards on `index.html` link to matching section IDs in `research-highlights.html`. Keep those IDs stable when editing a project so existing links continue to work. The dedicated page includes the four existing selections and the GPCR bioactivity project from the current source page.
