@@ -56,7 +56,7 @@ The homepage’s Joining the lab: FAQ link opens `join-us.html`. Keep the eleven
 
 The four Selected work cards on `index.html` link to matching section IDs in `research-highlights.html`. Keep those IDs stable when editing a project so existing links continue to work. The dedicated page includes the four existing selections and the GPCR bioactivity project from the current source page.
 
-Keep each highlight's explanation, figure caption and reference together. Use only Paper and Code resource controls, following the site's simplified publication links. Use accurate image `alt` text and retain local figures under `assets/images/`. Record the same content and source details in `research-highlights.json`, and figure provenance in `assets/images/highlight-sources.json`; it is a maintenance record, and the HTML works without JavaScript. Preserve the scope of the reported evidence, including simulated robotic control and experimental findings rather than clinical deployment claims.
+Use only Paper and Code resource controls, following the site's simplified publication links. Use accurate image `alt` text and retain local figures under `assets/images/`. Record the same content and source details in `research-highlights.json`, and figure provenance in `assets/images/highlight-sources.json`.
 
 ## Update news
 
