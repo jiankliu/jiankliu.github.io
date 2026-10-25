@@ -67,4 +67,4 @@ Keep each highlight's explanation, figure caption and reference together. Use on
 
 Add a `news-row` article to `news.html` in descending date order, following an existing archive item. Use `time datetime="YYYY-MM"`, `data-filter-item`, `data-year`, `data-category` (the year) and `data-search-text` so dates and filters remain accessible. Add a year button when the archive enters a new year. Record the same content and source in `news.json`; it is a maintenance record rather than a browser dependency. Highlighted news on `index.html` is maintained separately.
 
-Future-dated announcements must remain visibly labelled “Upcoming” until the event is confirmed. The November 2026 Congrui Yang announcement was upcoming when migrated on 25 October 2026. Dates and degree details were preserved from the original Google Sites homepage. Zhile Yang’s May 2022 welcome was retained from its indexed archive even though it no longer appears on the current source homepage. Recruitment links point directly to the university for current application and funding information.
+
