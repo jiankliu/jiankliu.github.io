@@ -1,7 +1,7 @@
 {
   "source_url": "https://sites.google.com/site/jiankliu/home",
   "migrated_on": "2026-10-25",
-  "description": "Original laboratory news, with dates and factual details preserved. Future-dated announcements are explicitly labelled upcoming.",
+  "description": "Laboratory news, including migrated announcements and new lab updates. Dates and source details are preserved; future-dated announcements are labelled upcoming.",
   "entries": [
     {
       "date": "2026-11",
@@ -22,6 +22,17 @@
       "links": [],
       "source_url": "https://sites.google.com/site/jiankliu/home#h.vcdj6wxva59k",
       "source_text": "10/2026: Welcome Lana Whitmarsh as a PhD student to the lab. Lana did her MS in Psychology at University of Birmingham."
+    },
+    {
+      "date": "2025-10",
+      "title": "Congratulations, Dr. Zhile Yang!",
+      "summary": "Zhile successfully passed his PhD viva.",
+      "category": "Milestone",
+      "status": "archived",
+      "links": [],
+      "source_type": "lab_announcement",
+      "source_text": "October 2025: Congratulations to Dr. Zhile Yang on successfully passing his PhD viva.",
+      "added_on": "2026-10-25"
     },
     {
       "date": "2025-10",
