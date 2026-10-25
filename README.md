@@ -41,7 +41,7 @@ When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or
 
 List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. Selected recent papers are also featured in `index.html`.
 
-The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site; the former Google Sites archive is no longer required. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
+The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site.
 
 ## Publishing
 
