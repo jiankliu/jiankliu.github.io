@@ -157,6 +157,10 @@ svg { max-width: 100%; }
 .publication-meta { color: var(--muted); font-size: 11px; margin: 0; }
 .publication-link { font-size: 10px; font-weight: 650; white-space: nowrap; text-decoration: none; margin-top: 4px; padding-bottom: 3px; border-bottom: 1px solid var(--line); }
 .publication-body { max-width: 850px; }
+.publication-links { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 20px; margin-top: 12px; }
+.publication-links .publication-link { font-size: 11px; white-space: normal; }
+.profile-links { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+.page-hero .profile-links .button { min-height: 46px; }
 .join-panel { position: relative; background: var(--forest); padding: 56px 55px; display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 50px; color: var(--white); }
 .join-panel::before { content:""; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--gold); }
 .join-panel .section-label { color: var(--gold); }
