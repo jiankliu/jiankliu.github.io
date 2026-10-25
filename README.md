@@ -43,10 +43,6 @@ List only papers that have a code link. The complete bibliography is linked thro
 
 The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site.
 
-## Publishing
-
-Commit changes to `main`. GitHub Pages builds and publishes the static files. 
-
 ## Update news
 
 Add a `news-row` article to `news.html` in descending date order, following an existing archive item. Use `time datetime="YYYY-MM"`, `data-filter-item`, `data-year`, `data-category` (the year) and `data-search-text` so dates and filters remain accessible. Add a year button when the archive enters a new year. Record the same content and source in `news.json`; it is a maintenance record rather than a browser dependency. Highlighted news on `index.html` is maintained separately.
