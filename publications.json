@@ -1,0 +1,1425 @@
+{
+  "source_url": "https://sites.google.com/site/jiankliu/Publications",
+  "migrated_on": "2026-10-25",
+  "description": "Publication resources matched in order and by title to the laboratory publication archive. Original paper titles, years and DOI links are retained. Useful resource links are labelled by their actual destination; duplicate destinations and three incorrect source PDF links are omitted from rendered controls. Original link provenance is retained here.",
+  "profiles": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=5eOhfkMAAAAJ",
+      "source_url": "http://scholar.google.com/citations?hl=en&user=5eOhfkMAAAAJ"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Jian-Liu-144",
+      "source_url": "https://www.researchgate.net/profile/Jian_Liu36",
+      "note": "The original profile URL redirects to the canonical Jian K Liu profile."
+    }
+  ],
+  "entries": [
+    {
+      "title": "GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning",
+      "year": "2026",
+      "doi": "https://doi.org/10.48550/arXiv.2609.16468",
+      "paper_url": "https://doi.org/10.48550/arXiv.2609.16468",
+      "source_text": "Zhang, S., Zhang, H., Hong, R., Liu, J. K., GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning, 22nd International Symposium on Bioinformatics Research and Applications (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2609.16468 ",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://arxiv.org/abs/2609.16468"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/DSQ"
+        },
+        {
+          "text": "10.48550/arXiv.2609.16468",
+          "url": "https://doi.org/10.48550/arXiv.2609.16468"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2609.16468",
+          "source_url": "https://arxiv.org/abs/2609.16468",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/DSQ",
+          "source_url": "https://github.com/jiankliu/DSQ",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "SeqProFT: Sequence-only Protein Property Prediction with LoRA Finetuning",
+      "year": "2026",
+      "doi": "https://doi.org/10.1109/TAI.2025.3636109",
+      "paper_url": "https://doi.org/10.1109/TAI.2025.3636109",
+      "source_text": "Zhang, S., Liu, J. K., SeqProFT: Sequence-only Protein Property Prediction with LoRA Finetuning, IEEE Transactions on Artificial Intelligence 7(6) 3194-3204 (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2411.11530 DOI: 10.1109/TAI.2025.3636109",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://research.birmingham.ac.uk/en/publications/seqproft-sequence-only-protein-property-prediction-with-lora-fine/"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/SeqProFT"
+        },
+        {
+          "text": "10.48550/arXiv.2411.11530",
+          "url": "https://doi.org/10.48550/arXiv.2411.11530"
+        },
+        {
+          "text": "10.1109/TAI.2025.3636109",
+          "url": "https://doi.org/10.1109/TAI.2025.3636109"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Institutional record",
+          "url": "https://research.birmingham.ac.uk/en/publications/seqproft-sequence-only-protein-property-prediction-with-lora-fine/",
+          "source_url": "https://research.birmingham.ac.uk/en/publications/seqproft-sequence-only-protein-property-prediction-with-lora-fine/",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/SeqProFT",
+          "source_url": "https://github.com/jiankliu/SeqProFT",
+          "source_label": "CODE"
+        },
+        {
+          "label": "Preprint",
+          "url": "https://doi.org/10.48550/arXiv.2411.11530",
+          "source_url": "https://doi.org/10.48550/arXiv.2411.11530",
+          "source_label": "10.48550/arXiv.2411.11530"
+        }
+      ]
+    },
+    {
+      "title": "Hierarchical Contrastive Learning for Multi-Domain Protein-Ligand Binding",
+      "year": "2026",
+      "doi": "https://doi.org/10.1007/978-981-92-3719-7_20",
+      "paper_url": "https://doi.org/10.1007/978-981-92-3719-7_20",
+      "source_text": "Zhang, S., Hong, R., Zhang, H., Liu, J. K., Hierarchical Contrastive Learning for Multi-Domain Protein-Ligand Binding, 22nd International Symposium on Bioinformatics Research and Applications (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2605.19902 DOI: 10.1007/978-981-92-3719-7_20",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://arxiv.org/abs/2605.19902"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/HCLBind"
+        },
+        {
+          "text": "10.48550/arXiv.2605.19902",
+          "url": "https://doi.org/10.48550/arXiv.2605.19902"
+        },
+        {
+          "text": "10.1007/978-981-92-3719-7_20",
+          "url": "https://doi.org/10.1007/978-981-92-3719-7_20"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2605.19902",
+          "source_url": "https://arxiv.org/abs/2605.19902",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/HCLBind",
+          "source_url": "https://github.com/jiankliu/HCLBind",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding",
+      "year": "2026",
+      "doi": "https://doi.org/10.48550/arXiv.2603.27492",
+      "paper_url": "https://doi.org/10.48550/arXiv.2603.27492",
+      "source_text": "Li, Y., Wang, S., Liu, J. K. Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding, 2026 Joint International Conference on Automation-Intelligence-Safety (ICAIS) & International Symposium on Autonomous Systems (ISAS) (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2603.27492 DOI: 10.1109/ICAISISAS68969.2026.11567929",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://arxiv.org/abs/2603.27492"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/ssshiFang/EEGDecoding_Robotarm"
+        },
+        {
+          "text": "10.48550/arXiv.2603.27492",
+          "url": "https://doi.org/10.48550/arXiv.2603.27492"
+        },
+        {
+          "text": "10.1109/ICAISISAS68969.2026.11567929",
+          "url": "https://doi.org/10.1109/ICAISISAS68969.2026.11567929"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2603.27492",
+          "source_url": "https://arxiv.org/abs/2603.27492",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/ssshiFang/EEGDecoding_Robotarm",
+          "source_url": "https://github.com/ssshiFang/EEGDecoding_Robotarm",
+          "source_label": "CODE"
+        },
+        {
+          "label": "Published version",
+          "url": "https://doi.org/10.1109/ICAISISAS68969.2026.11567929",
+          "source_url": "https://doi.org/10.1109/ICAISISAS68969.2026.11567929",
+          "source_label": "10.1109/ICAISISAS68969.2026.11567929"
+        }
+      ]
+    },
+    {
+      "title": "Domain-Aware Geometric Multimodal Learning for Multi-Domain Protein-Ligand Affinity Prediction",
+      "year": "2026",
+      "doi": "https://doi.org/10.48550/arXiv.2601.17102",
+      "paper_url": "https://doi.org/10.48550/arXiv.2601.17102",
+      "source_text": "Zhang, S., Liu, J. K., Domain-Aware Geometric Multimodal Learning for Multi-Domain Protein-Ligand Affinity Prediction, 14th International Conference on Bioinformatics and Computational Biology (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2601.17102 DOI: 10.1109/ICBCB69424.2026.11621216",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://research.birmingham.ac.uk/files/290505732/DAGML-Zhang-2026.pdf"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/DAGML"
+        },
+        {
+          "text": "10.48550/arXiv.2601.17102",
+          "url": "https://doi.org/10.48550/arXiv.2601.17102"
+        },
+        {
+          "text": "10.1109/ICBCB69424.2026.11621216",
+          "url": "https://doi.org/10.1109/ICBCB69424.2026.11621216"
+        }
+      ],
+      "resources": [
+        {
+          "label": "PDF",
+          "url": "https://research.birmingham.ac.uk/files/290505732/DAGML-Zhang-2026.pdf",
+          "source_url": "https://research.birmingham.ac.uk/files/290505732/DAGML-Zhang-2026.pdf",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/DAGML",
+          "source_url": "https://github.com/jiankliu/DAGML",
+          "source_label": "CODE"
+        },
+        {
+          "label": "Published version",
+          "url": "https://doi.org/10.1109/ICBCB69424.2026.11621216",
+          "source_url": "https://doi.org/10.1109/ICBCB69424.2026.11621216",
+          "source_label": "10.1109/ICBCB69424.2026.11621216"
+        }
+      ]
+    },
+    {
+      "title": "HMEN: A Hybrid Modular Network with Dynamic Expansion for Continual Learning",
+      "year": "2026",
+      "doi": "https://doi.org/10.1016/j.knosys.2025.115182",
+      "paper_url": "https://doi.org/10.1016/j.knosys.2025.115182",
+      "source_text": "Fang, Z., Wan, B., Guo, S., Liu, J. K., HMEN: A Hybrid Modular Network with Dynamic Expansion for Continual Learning, Knowledge-Based Systems  335, 115182 (2026) [PDF][CODE] DOI: 10.1016/j.knosys.2025.115182",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/379678116_Hierarchical_reinforcement_learning_from_imperfect_demonstrations_through_reachable_coverage-based_subgoal_filtering"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/fghfxh/HMEN"
+        },
+        {
+          "text": "10.1016/j.knosys.2025.115182",
+          "url": "https://doi.org/10.1016/j.knosys.2025.115182"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/fghfxh/HMEN",
+          "source_url": "https://github.com/fghfxh/HMEN",
+          "source_label": "CODE"
+        }
+      ],
+      "excluded_links": [
+        {
+          "source_url": "https://www.researchgate.net/publication/379678116_Hierarchical_reinforcement_learning_from_imperfect_demonstrations_through_reachable_coverage-based_subgoal_filtering",
+          "source_label": "[PDF]",
+          "reason": "The source PDF URL names a different paper: Hierarchical reinforcement learning from imperfect demonstrations through reachable coverage-based subgoal filtering. Use the correct HMEN paper DOI instead."
+        }
+      ]
+    },
+    {
+      "title": "Aberrant neural activity in the peritumoral cortex underlies the progression of tumor associated seizures",
+      "year": "2025",
+      "doi": "https://doi.org/10.1038/s41467-025-66226-5",
+      "paper_url": "https://doi.org/10.1038/s41467-025-66226-5",
+      "source_text": "Bouwen, B., Bolleboom, A., Tang, Y., Yu, Z., van der Stap, A., van Rij, J., van Dis, V., Dirven, C., de Zeeuw, C., van Tellingen, O., Liu, J. K., Vincent, A., Gao, Z., Aberrant neural activity in the peritumoral cortex underlies the progression of tumor associated seizures, Nature Communications, 16, 10846 (2025). [PDF][[CODE]  DOI:10.1038/s41467-025-66226-5",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.nature.com/articles/s41467-025-66226-5"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/ydtang/Seizure-model"
+        },
+        {
+          "text": "10.1038/s41467-025-66226-5",
+          "url": "https://doi.org/10.1038/s41467-025-66226-5"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://www.nature.com/articles/s41467-025-66226-5",
+          "source_url": "https://www.nature.com/articles/s41467-025-66226-5",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/ydtang/Seizure-model",
+          "source_url": "https://github.com/ydtang/Seizure-model",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Neuromorphic computing paradigms enhance robustness through spiking neural networks",
+      "year": "2025",
+      "doi": "https://doi.org/10.1038/s41467-025-65197-x",
+      "paper_url": "https://doi.org/10.1038/s41467-025-65197-x",
+      "source_text": "Ding, J., Yu, Z., Liu, J. K., Huang, T., Neuromorphic computing paradigms enhance robustness through spiking neural networks, Nature Communications, 16, 10175 (2025). [PDF][CODE]  DOI:10.1038/s41467-025-65197-x",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.nature.com/articles/s41467-025-65197-x"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/DingJianhao/SNNEnhancingRobustness"
+        },
+        {
+          "text": "10.1038/s41467-025-65197-x",
+          "url": "https://doi.org/10.1038/s41467-025-65197-x"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://www.nature.com/articles/s41467-025-65197-x",
+          "source_url": "https://www.nature.com/articles/s41467-025-65197-x",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/DingJianhao/SNNEnhancingRobustness",
+          "source_url": "https://github.com/DingJianhao/SNNEnhancingRobustness",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Decoding Natural Visual Scenes via Learnable Representations of Neural Spiking Sequences",
+      "year": "2025",
+      "doi": "https://doi.org/10.1016/j.neunet.2025.107863",
+      "paper_url": "https://doi.org/10.1016/j.neunet.2025.107863",
+      "source_text": "Peng, J., Jia, S, Zhang, J., Wang, Y., Yu, Z., Liu, J. K., Decoding Natural Visual Scenes via Learnable Representations of Neural Spiking Sequences, Neural Netw.  192, 107863 (2025)  [PDF] [CODE] DOI: 10.1016/j.neunet.2025.107863",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://doi.org/10.1016/j.neunet.2025.107863"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/WISA"
+        },
+        {
+          "text": "10.1016/j.neunet.2025.107863",
+          "url": "https://doi.org/10.1016/j.neunet.2025.107863"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/WISA",
+          "source_url": "https://github.com/jiankliu/WISA",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs",
+      "year": "2025",
+      "doi": "https://doi.org/10.1109/TNNLS.2025.3567567",
+      "paper_url": "https://doi.org/10.1109/TNNLS.2025.3567567",
+      "source_text": "Huang, Z., Ding, J., Pan, Z., Li, H., Fang, Y., Yu, Z., Liu, J. K., Converting High-Performance and Low-Latency SNNs through Explicit Modelling of Residual Error in ANNs, IEEE Transactions on Neural Networks and Learning Systems. 36(9) 16788-16802 (2025) [PDF]  [Code] DOI: 10.1109/TNNLS.2025.3567567",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/390406380_Assisting_Training_of_Deep_Spiking_Neural_Networks_With_Parameter_Initialization"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/hzp2022/ANN2SNN_NQ"
+        },
+        {
+          "text": "10.1109/TNNLS.2025.3567567",
+          "url": "https://doi.org/10.1109/TNNLS.2025.3567567"
+        }
+      ],
+      "resources": [
+        {
+          "label": "PDF",
+          "url": "https://pure-oai.bham.ac.uk/ws/portalfiles/portal/266927851/Huang_TNNLS2025.pdf",
+          "source_url": "https://www.researchgate.net/publication/390406380_Assisting_Training_of_Deep_Spiking_Neural_Networks_With_Parameter_Initialization",
+          "source_label": "[PDF]",
+          "note": "Replaced an unrelated source PDF with the University of Birmingham accepted manuscript, verified by paper title, authors and DOI on its first page."
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/hzp2022/ANN2SNN_NQ",
+          "source_url": "https://github.com/hzp2022/ANN2SNN_NQ",
+          "source_label": "[Code]"
+        }
+      ],
+      "excluded_links": [
+        {
+          "source_url": "https://www.researchgate.net/publication/390406380_Assisting_Training_of_Deep_Spiking_Neural_Networks_With_Parameter_Initialization",
+          "source_label": "[PDF]",
+          "reason": "The source PDF URL names a different paper: Assisting Training of Deep Spiking Neural Networks With Parameter Initialization. Use the correct conversion paper DOI instead."
+        }
+      ]
+    },
+    {
+      "title": "Implementing feature binding through dendritic networks of a single neuron",
+      "year": "2025",
+      "doi": "https://doi.org/10.1016/j.neunet.2025.107555",
+      "paper_url": "https://doi.org/10.1016/j.neunet.2025.107555",
+      "source_text": "Tang, Y., Jia, S, Huang, T., Yu, Z., Liu, J. K., Implementing feature binding through dendritic networks of a single neuron, Neural Netw. 189, 107555 (2025)  [PDF] [CODE] DOI: 10.1016/j.neunet.2025.107555",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://doi.org/10.1016/j.neunet.2025.107555"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/ydtang/Nonlinearity-model"
+        },
+        {
+          "text": "10.1016/j.neunet.2025.107555",
+          "url": "https://doi.org/10.1016/j.neunet.2025.107555"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/ydtang/Nonlinearity-model",
+          "source_url": "https://github.com/ydtang/Nonlinearity-model",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning",
+      "year": "2025",
+      "doi": "https://doi.org/10.1109/TPAMI.2024.3511936",
+      "paper_url": "https://doi.org/10.1109/TPAMI.2024.3511936",
+      "source_text": "Yang, Z., Guo, S., Fang, Y., Yu, Z., Liu, J. K., Spiking Variational Policy Gradient for Brain Inspired Reinforcement Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence. 47(3) 1975-1990 (2025) [PDF] [Code] DOI: 10.1109/TPAMI.2024.3511936",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/386593089_Spiking_Variational_Policy_Gradient_for_Brain_Inspired_Reinforcement_Learning"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/yzlc080733/SVPG2023"
+        },
+        {
+          "text": "10.1109/TPAMI.2024.3511936",
+          "url": "https://doi.org/10.1109/TPAMI.2024.3511936"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/386593089_Spiking_Variational_Policy_Gradient_for_Brain_Inspired_Reinforcement_Learning",
+          "source_url": "https://www.researchgate.net/publication/386593089_Spiking_Variational_Policy_Gradient_for_Brain_Inspired_Reinforcement_Learning",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/yzlc080733/SVPG2023",
+          "source_url": "https://github.com/yzlc080733/SVPG2023",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "ProCeSa: Contrast-Enhanced Structure-Aware Network for Thermostability Prediction with Protein Language Models",
+      "year": "2025",
+      "doi": "https://doi.org/10.1021/acs.jcim.4c01752",
+      "paper_url": "https://doi.org/10.1021/acs.jcim.4c01752",
+      "source_text": "Zhou, F., Zhang, S., Zhang, H., Liu, J. K., ProCeSa: Contrast-Enhanced Structure-Aware Network for Thermostability Prediction with Protein Language Models, J. Chem. Inf. Model. 65(5), 2304–2313 (2025) [PDF] [Code] DOI: 10.1021/acs.jcim.4c01752",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://doi.org/10.1021/acs.jcim.4c01752"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/ProCeSa"
+        },
+        {
+          "text": "10.1021/acs.jcim.4c01752",
+          "url": "https://doi.org/10.1021/acs.jcim.4c01752"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/ProCeSa",
+          "source_url": "https://github.com/jiankliu/ProCeSa",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Aligning Neuronal Coding of Dynamic Visual Scenes with Foundation Vision Models",
+      "year": "2024",
+      "doi": "https://doi.org/10.1007/978-3-031-73223-2_14",
+      "paper_url": "https://doi.org/10.1007/978-3-031-73223-2_14",
+      "source_text": "Wu, R., Zhou, F., Yin, Z., Liu, J. K., Aligning Neuronal Coding of Dynamic Visual Scenes with Foundation Vision Models, European Conference on Computer Vision (ECCV). (2024) [PDF] [Poster/Video] [CODE] DOI: 10.1007/978-3-031-73223-2_14",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/2181"
+        },
+        {
+          "text": "[Poster/Video]",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/2181"
+        },
+        {
+          "text": "[CODE]",
+          "url": "https://github.com/wurining/Vi-ST"
+        },
+        {
+          "text": "10.1007/978-3-031-73223-2_14",
+          "url": "https://doi.org/10.1007/978-3-031-73223-2_14"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Poster and video",
+          "url": "https://eccv.ecva.net/virtual/2024/poster/2181",
+          "source_url": "https://eccv.ecva.net/virtual/2024/poster/2181",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/wurining/Vi-ST",
+          "source_url": "https://github.com/wurining/Vi-ST",
+          "source_label": "[CODE]"
+        }
+      ]
+    },
+    {
+      "title": "HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-Level Representation",
+      "year": "2024",
+      "doi": "https://doi.org/10.1109/TNNLS.2023.3273255",
+      "paper_url": "https://doi.org/10.1109/TNNLS.2023.3273255",
+      "source_text": "Yang, R., Zhao, P., Wang, L., Feng, C., Peng, C., Wang, Z., Zhang, Y., Shen, M., Shi, K., Weng, S., Dong, C., Zeng, F., Zhang, T., Chen, X., Wang, S., Wang, Y., Luo, Y., Chen, Q., Shi, G., Zhu, Y., Liu, J. K., Li, X., HeGCL: Advance Self-Supervised Learning in Heterogeneous Graph-Level Representation. IEEE Transactions on Neural Networks and Learning Systems. 35(10) 13914-13925 (2024) [PDF] [CODE] DOI: 10.1109/TNNLS.2023.3273255",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/371042315_HeGCL_Advance_Self-Supervised_Learning_in_Heterogeneous_Graph-Level_Representation"
+        },
+        {
+          "text": "[CODE]",
+          "url": "https://github.com/shigen97/HeGCL"
+        },
+        {
+          "text": "10.1109/TNNLS.2023.3273255",
+          "url": "https://doi.org/10.1109/TNNLS.2023.3273255"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/371042315_HeGCL_Advance_Self-Supervised_Learning_in_Heterogeneous_Graph-Level_Representation",
+          "source_url": "https://www.researchgate.net/publication/371042315_HeGCL_Advance_Self-Supervised_Learning_in_Heterogeneous_Graph-Level_Representation",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/shigen97/HeGCL",
+          "source_url": "https://github.com/shigen97/HeGCL",
+          "source_label": "[CODE]"
+        }
+      ]
+    },
+    {
+      "title": "Decoding dynamic visual scenes across the brain hierarchy",
+      "year": "2024",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1012297",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1012297",
+      "source_text": "Chen, Y., Beech, P., Yin, Z., Jia, S., Zhang, J., Yu, Z., Liu, J. K., Decoding dynamic visual scenes across the brain hierarchy, PLoS Comput Biol 20(8): e1012297 (2024) [PDF]  [Code] DOI: 10.1371/journal.pcbi.1012297",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012297"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/beizai/Decoding"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1012297",
+          "url": "https://doi.org/10.1371/journal.pcbi.1012297"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012297",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012297",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/beizai/Decoding",
+          "source_url": "https://github.com/beizai/Decoding",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "High-performance deep spiking neural networks via at-most-two-spike exponential coding",
+      "year": "2024",
+      "doi": "https://doi.org/10.1016/j.neunet.2024.106346",
+      "paper_url": "https://doi.org/10.1016/j.neunet.2024.106346",
+      "source_text": "Chen, Y., Feng, R., Xiong, Z., Xiao, J., Liu, J. K., High-performance deep spiking neural networks via at-most-two-spike exponential coding, Neural Netw 176, 106346 (2024) [PDF] [Code] DOI: 10.1016/j.neunet.2024.106346",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.nature.com/articles/s42003-024-06162-0"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/RPDS2020/AEC"
+        },
+        {
+          "text": "10.1016/j.neunet.2024.106346",
+          "url": "https://doi.org/10.1016/j.neunet.2024.106346"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/380161330_High-performance_deep_spiking_neural_networks_via_at-most-two-spike_exponential_coding",
+          "source_url": "https://www.nature.com/articles/s42003-024-06162-0",
+          "source_label": "[PDF]",
+          "note": "Replaced the unrelated Nature link with the matching paper on ResearchGate."
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/RPDS2020/AEC",
+          "source_url": "https://github.com/RPDS2020/AEC",
+          "source_label": "[Code]"
+        }
+      ],
+      "excluded_links": [
+        {
+          "source_url": "https://www.nature.com/articles/s42003-024-06162-0",
+          "source_label": "[PDF]",
+          "reason": "The source PDF URL resolves to Revealing the mechanisms of semantic satiation with deep learning models (Communications Biology), rather than the listed Neural Networks paper. Use the correct paper DOI instead."
+        }
+      ]
+    },
+    {
+      "title": "HybridGCN for Protein Solubility Prediction with Adaptive Weighting of Multiple Features",
+      "year": "2023",
+      "doi": "https://doi.org/10.1186/s13321-023-00788-8",
+      "paper_url": "https://doi.org/10.1186/s13321-023-00788-8",
+      "source_text": "Chen, L., Wu, R., Zhou, F., Zhang, H., Liu, J. K., HybridGCN for Protein Solubility Prediction with Adaptive Weighting of Multiple Features. Journal of Cheminformatics  15, 118 (2023) [PDF] [CODE] DOI: 10.1186/s13321-023-00788-8",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00788-8"
+        },
+        {
+          "text": "CODE",
+          "url": "https://github.com/jiankliu/HybridGCN"
+        },
+        {
+          "text": "10.1186/s13321-023-00788-8",
+          "url": "https://doi.org/10.1186/s13321-023-00788-8"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00788-8",
+          "source_url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00788-8",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/HybridGCN",
+          "source_url": "https://github.com/jiankliu/HybridGCN",
+          "source_label": "CODE"
+        }
+      ]
+    },
+    {
+      "title": "Diverse role of NMDA receptors for dendritic integration of neural dynamics",
+      "year": "2023",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1011019",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1011019",
+      "source_text": "Tang Y., Zhang X., An L., Yu Z., Liu, J. K., Diverse role of NMDA receptors for dendritic integration of neural dynamics, PLoS Comput Biol (2023) 19(4): e1011019 (2023) [PDF]  [Code] DOI: 10.1371/journal.pcbi.1011019",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/Dendritic-NMDA"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1011019",
+          "url": "https://doi.org/10.1371/journal.pcbi.1011019"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/Dendritic-NMDA",
+          "source_url": "https://github.com/jiankliu/Dendritic-NMDA",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training",
+      "year": "2022",
+      "doi": "",
+      "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html",
+      "source_text": "Ding, J., Bu, T., Yu, Z., Huang, T., Liu, J.K., SNN-RAT: Robustness-enhanced Spiking Neural Network through Regularized Adversarial Training, Advances in Neural Information Processing Systems (NeurIPS) (2022) [Spotlight] [PDF] [Poster] [Code] [Metapage]",
+      "source_links": [
+        {
+          "text": " [PDF]",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html"
+        },
+        {
+          "text": "Poster",
+          "url": "https://nips.cc/media/PosterPDFs/NeurIPS%202022/54952.png?t=1668240874.2707984"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/putshua/SNN-RAT"
+        },
+        {
+          "text": "Metapage",
+          "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Poster",
+          "url": "https://nips.cc/media/PosterPDFs/NeurIPS%202022/54952.png?t=1668240874.2707984",
+          "source_url": "https://nips.cc/media/PosterPDFs/NeurIPS%202022/54952.png?t=1668240874.2707984",
+          "source_label": "Poster"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/putshua/SNN-RAT",
+          "source_url": "https://github.com/putshua/SNN-RAT",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks",
+      "year": "2022",
+      "doi": "https://doi.org/10.48550/arXiv.2210.13225",
+      "paper_url": "https://doi.org/10.48550/arXiv.2210.13225",
+      "source_text": "Yang, Z., Guo, S., Fang, Y., Liu, J.K. Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks, British Machine Vision Conference (BMVC) (2022)  [PDF] [Poster]  [Video]  [Code] [Metapage] DOI: 10.48550/arXiv.2210.13225",
+      "source_links": [
+        {
+          "text": " [PDF]",
+          "url": "https://www.researchgate.net/publication/364689426_Biologically_Plausible_Variational_Policy_Gradient_with_Spiking_Recurrent_Winner-Take-All_Networks"
+        },
+        {
+          "text": "[Poster]",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/0358_poster.pdf"
+        },
+        {
+          "text": "  ",
+          "url": "https://github.com/yzlc080733/BMVC2022_SVPG"
+        },
+        {
+          "text": "[Video]",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/0358_video.mp4"
+        },
+        {
+          "text": "  [Code]",
+          "url": "https://github.com/yzlc080733/BMVC2022_SVPG"
+        },
+        {
+          "text": "Metapage",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/358"
+        },
+        {
+          "text": "10.48550/arXiv.2210.13225",
+          "url": "https://doi.org/10.48550/arXiv.2210.13225"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/364689426_Biologically_Plausible_Variational_Policy_Gradient_with_Spiking_Recurrent_Winner-Take-All_Networks",
+          "source_url": "https://www.researchgate.net/publication/364689426_Biologically_Plausible_Variational_Policy_Gradient_with_Spiking_Recurrent_Winner-Take-All_Networks",
+          "source_label": " [PDF]"
+        },
+        {
+          "label": "Poster",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/0358_poster.pdf",
+          "source_url": "https://bmvc2022.mpi-inf.mpg.de/0358_poster.pdf",
+          "source_label": "[Poster]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/yzlc080733/BMVC2022_SVPG",
+          "source_url": "https://github.com/yzlc080733/BMVC2022_SVPG",
+          "source_label": "  "
+        },
+        {
+          "label": "Video",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/0358_video.mp4",
+          "source_url": "https://bmvc2022.mpi-inf.mpg.de/0358_video.mp4",
+          "source_label": "[Video]"
+        },
+        {
+          "label": "Conference page",
+          "url": "https://bmvc2022.mpi-inf.mpg.de/358",
+          "source_url": "https://bmvc2022.mpi-inf.mpg.de/358",
+          "source_label": "Metapage"
+        }
+      ]
+    },
+    {
+      "title": "Neural System Identification with Spike-triggered Non-negative Matrix Factorization",
+      "year": "2022",
+      "doi": "https://doi.org/10.1109/TCYB.2020.3042513",
+      "paper_url": "https://doi.org/10.1109/TCYB.2020.3042513",
+      "source_text": "Jia S, Yu Z, Onken A, Tian Y, Huang T, Liu J. K. Neural System Identification with Spike-triggered Non-negative Matrix Factorization. IEEE Transactions on Cybernetics 52(6): 4772-4783 (2022) [PDF] [Code for STNMF] [Code for Copula] [Data] DOI: 10.1109/TCYB.2020.3042513",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/348257915_Neural_System_Identification_With_Spike-Triggered_Non-Negative_Matrix_Factorization"
+        },
+        {
+          "text": "[Code for STNMF]",
+          "url": "https://github.com/jiankliu/STNMFanalysis"
+        },
+        {
+          "text": "[Code for Copula]",
+          "url": "https://github.com/jiankliu/Mixed-Vine-Toolbox-for-Matlab"
+        },
+        {
+          "text": "[Data]",
+          "url": "https://doi.org/10.12751/g-node.62b65b"
+        },
+        {
+          "text": "10.1109/TCYB.2020.3042513",
+          "url": "https://doi.org/10.1109/TCYB.2020.3042513"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/348257915_Neural_System_Identification_With_Spike-Triggered_Non-Negative_Matrix_Factorization",
+          "source_url": "https://www.researchgate.net/publication/348257915_Neural_System_Identification_With_Spike-Triggered_Non-Negative_Matrix_Factorization",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code for STNMF",
+          "url": "https://github.com/jiankliu/STNMFanalysis",
+          "source_url": "https://github.com/jiankliu/STNMFanalysis",
+          "source_label": "[Code for STNMF]"
+        },
+        {
+          "label": "Code for Copula",
+          "url": "https://github.com/jiankliu/Mixed-Vine-Toolbox-for-Matlab",
+          "source_url": "https://github.com/jiankliu/Mixed-Vine-Toolbox-for-Matlab",
+          "source_label": "[Code for Copula]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Simple model for encoding natural images by retinal ganglion cells with nonlinear spatial integration",
+      "year": "2022",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1009925",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1009925",
+      "source_text": "Liu, J. K., Karamanlis, D., Gollisch, T., Simple model for encoding natural images by retinal ganglion cells with nonlinear spatial integration. PLoS Comput Biol 18(3): e1009925 (2022) [PDF] [Data] DOI: 10.1371/journal.pcbi.1009925",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009925"
+        },
+        {
+          "text": "[Data]",
+          "url": "https://doi.org/10.12751/g-node.kod28e"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1009925",
+          "url": "https://doi.org/10.1371/journal.pcbi.1009925"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009925",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009925",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.12751/g-node.kod28e",
+          "source_url": "https://doi.org/10.12751/g-node.kod28e",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks",
+      "year": "2022",
+      "doi": "https://doi.org/10.1109/TCYB.2020.2972983",
+      "paper_url": "https://doi.org/10.1109/TCYB.2020.2972983",
+      "source_text": "Yan Q, Zheng Y, Jia S, Zhang Y, Yu Z, Chen F, Tian Y, Huang T, Liu J.K., Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks. IEEE Transactions on Cybernetics 52(1) :39-50 (2022) [PDF]  [Code] [Data] DOI: 10.1109/TCYB.2020.2972983 ",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/339838776_Revealing_Fine_Structures_of_the_Retinal_Receptive_Field_by_Deep-Learning_Networks"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/CNN-for-Retinal-Receptive-Field"
+        },
+        {
+          "text": "[Data]",
+          "url": "https://doi.org/10.12751/g-node.62b65b"
+        },
+        {
+          "text": "10.1109/TCYB.2020.2972983",
+          "url": "https://doi.org/10.1109/TCYB.2020.2972983"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/339838776_Revealing_Fine_Structures_of_the_Retinal_Receptive_Field_by_Deep-Learning_Networks",
+          "source_url": "https://www.researchgate.net/publication/339838776_Revealing_Fine_Structures_of_the_Retinal_Receptive_Field_by_Deep-Learning_Networks",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/CNN-for-Retinal-Receptive-Field",
+          "source_url": "https://github.com/jiankliu/CNN-for-Retinal-Receptive-Field",
+          "source_label": "[Code]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Representing the dynamics of high-dimensional data with non-redundant wavelets",
+      "year": "2022",
+      "doi": "https://doi.org/10.1016/j.patter.2021.100424",
+      "paper_url": "https://doi.org/10.1016/j.patter.2021.100424",
+      "source_text": "Jia, S., Li, X., Huang, T., Liu, J. K., Zhao, Y., Representing the dynamics of high-dimensional data with non-redundant wavelets. Patterns. 3(3): 100424 (2022)  [PDF] [Code] DOI: 10.1016/j.patter.2021.100424",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S266638992100307X"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiashsh/WCMI_project"
+        },
+        {
+          "text": "10.1016/j.patter.2021.100424",
+          "url": "https://doi.org/10.1016/j.patter.2021.100424"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S266638992100307X",
+          "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S266638992100307X",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiashsh/WCMI_project",
+          "source_url": "https://github.com/jiashsh/WCMI_project",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Dissecting cascade computational components in spiking neural networks",
+      "year": "2021",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1009640",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1009640",
+      "source_text": "Jia S., Xing D., Yu Z., Liu, J. K., Dissecting cascade computational components in spiking neural networks, PLoS Comput Biol 17(11): e1009640 (2021) [PDF] [Code] DOI: 10.1371/journal.pcbi.1009640",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009640"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/STNMF-SNN"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1009640",
+          "url": "https://doi.org/10.1371/journal.pcbi.1009640"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009640",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009640",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/STNMF-SNN",
+          "source_url": "https://github.com/jiankliu/STNMF-SNN",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Unraveling neural coding of dynamic natural visual scenes via convolutional recurrent neural networks",
+      "year": "2021",
+      "doi": "https://doi.org/10.1016/j.patter.2021.100350",
+      "paper_url": "https://doi.org/10.1016/j.patter.2021.100350",
+      "source_text": "Zheng Y, Jia S, Yu Z, Liu, J.K, Huang T. Unraveling neural coding of dynamic natural visual scenes via convolutional recurrent neural networks, Patterns 2(10): 100350 (2021) [PDF] [Code] DOI: 10.1016/j.patter.2021.100350",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900205-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921002051%3Fshowall%3Dtrue"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/Zyj061/retina-crnn_model"
+        },
+        {
+          "text": "10.1016/j.patter.2021.100350",
+          "url": "https://doi.org/10.1016/j.patter.2021.100350"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900205-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921002051%3Fshowall%3Dtrue",
+          "source_url": "https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900205-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921002051%3Fshowall%3Dtrue",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/Zyj061/retina-crnn_model",
+          "source_url": "https://github.com/Zyj061/retina-crnn_model",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Regulating synchronous oscillations of cerebellar granule cells by different types of inhibition",
+      "year": "2021",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1009163",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1009163",
+      "source_text": "Tang Y., An L., Wang Q., Liu, J. K., Regulating synchronous oscillations of cerebellar granule cells by different types of inhibition, PLoS Comput Biol 17(6): e1009163 (2021) [PDF] [Code] DOI: 10.1371/journal.pcbi.1009163",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009163"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/GC-CoC-Network"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1009163",
+          "url": "https://doi.org/10.1371/journal.pcbi.1009163"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009163",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009163",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/GC-CoC-Network",
+          "source_url": "https://github.com/jiankliu/GC-CoC-Network",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Modulation of the dynamics of cerebellar Purkinje cells through the interaction of excitatory and inhibitory feedforward pathways",
+      "year": "2021",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1008670",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1008670",
+      "source_text": "Tang Y., An L., Yuan Y., Pei Q, Wang Q., Liu, J. K., Modulation of the dynamics of cerebellar Purkinje cells through the interaction of excitatory and inhibitory feedforward pathways, PLoS Comput Biol 17(2): e1008670 (2021) [PDF] [Code] DOI: 10.1371/journal.pcbi.1008670",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008670"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/Purkinje-Cell-Network"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1008670",
+          "url": "https://doi.org/10.1371/journal.pcbi.1008670"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008670",
+          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008670",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/Purkinje-Cell-Network",
+          "source_url": "https://github.com/jiankliu/Purkinje-Cell-Network",
+          "source_label": "[Code]"
+        }
+      ]
+    },
+    {
+      "title": "Reconstruction of Natural Visual Scenes from Neural Spikes with Deep Neural Networks",
+      "year": "2020",
+      "doi": "https://doi.org/10.1016/j.neunet.2020.01.033",
+      "paper_url": "https://doi.org/10.1016/j.neunet.2020.01.033",
+      "source_text": "Zhang Y, Jia S, Zheng Y, Yu Z, Tian Y., Ma S., Huang T, Liu J.K. Reconstruction of Natural Visual Scenes from Neural Spikes with Deep Neural Networks. Neural Networks. 125:19-30 (2020) [PDF] [Demos] [Code] [Data] DOI: 10.1016/j.neunet.2020.01.033 ",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.researchgate.net/publication/339127649_Reconstruction_of_natural_visual_scenes_from_neural_spikes_with_deep_neural_networks"
+        },
+        {
+          "text": "Demos",
+          "url": "https://sites.google.com/site/jiankliu/visual-coding-with-spikes"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/jiankliu/Spike-Image-Decoder"
+        },
+        {
+          "text": "[Data]",
+          "url": "http://dx.doi.org/10.5061/dryad.4ch10"
+        },
+        {
+          "text": "10.1016/j.neunet.2020.01.033",
+          "url": "https://doi.org/10.1016/j.neunet.2020.01.033"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/339127649_Reconstruction_of_natural_visual_scenes_from_neural_spikes_with_deep_neural_networks",
+          "source_url": "https://www.researchgate.net/publication/339127649_Reconstruction_of_natural_visual_scenes_from_neural_spikes_with_deep_neural_networks",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Demos",
+          "url": "visual-coding.html",
+          "source_url": "https://sites.google.com/site/jiankliu/visual-coding-with-spikes",
+          "source_label": "Demos",
+          "note": "The visual coding demonstration page has been migrated to GitHub Pages."
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/Spike-Image-Decoder",
+          "source_url": "https://github.com/jiankliu/Spike-Image-Decoder",
+          "source_label": "[Code]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.5061/dryad.4ch10",
+          "source_url": "http://dx.doi.org/10.5061/dryad.4ch10",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Inference of neuronal functional circuitry with spike-triggered non-negative matrix factorization",
+      "year": "2017",
+      "doi": "https://doi.org/10.1038/s41467-017-00156-9",
+      "paper_url": "https://doi.org/10.1038/s41467-017-00156-9",
+      "source_text": "Liu, J. K., Schreyer, H.M., Onken, A., Rozenblit, F., Khani, M.H., Krishnamoorthy, V.,  Panzeri, S., and Gollisch, T. Inference of neuronal functional circuitry with spike-triggered non-negative matrix factorization, Nature Communications, 8(1):149 (2017). [PDF] [Code] [Data]  [Striking Image]  [Press release in German] [Selected as Gö-VIP (Göttingen Very Important Publication)] DOI:10.1038/s41467-017-00156-9",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://www.nature.com/articles/s41467-017-00156-9"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://github.com/gollischlab/STNMFanalysis"
+        },
+        {
+          "text": "[Data]",
+          "url": "https://doi.org/10.12751/g-node.62b65b"
+        },
+        {
+          "text": "[Striking Image]",
+          "url": "https://sites.google.com/site/jiankliu/hightlight"
+        },
+        {
+          "text": "[Press release in German]",
+          "url": "http://www.med.uni-goettingen.de/de/content/presseinformationen/presseinformationen_26139.asp"
+        },
+        {
+          "text": "10.1038/s41467-017-00156-9",
+          "url": "https://doi.org/10.1038/s41467-017-00156-9"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://www.nature.com/articles/s41467-017-00156-9",
+          "source_url": "https://www.nature.com/articles/s41467-017-00156-9",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/gollischlab/STNMFanalysis",
+          "source_url": "https://github.com/gollischlab/STNMFanalysis",
+          "source_label": "[Code]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_url": "https://doi.org/10.12751/g-node.62b65b",
+          "source_label": "[Data]"
+        },
+        {
+          "label": "Figure 1",
+          "url": "https://www.nature.com/articles/s41467-017-00156-9/figures/1",
+          "source_url": "https://sites.google.com/site/jiankliu/hightlight",
+          "source_label": "[Striking Image]",
+          "note": "The old Striking Image URL now displays an unrelated symposium. Link to the paper figure gallery instead."
+        },
+        {
+          "label": "Gö-VIP summary (German)",
+          "url": "https://www.umg.eu/fileadmin/Redaktion/Dachportal/004_Forschung/id78_Science_Support/id81_Karriere_Foerderung/id337_Very_important_publications/GOE-VIP-16_Gollisch.pdf",
+          "source_url": "http://www.med.uni-goettingen.de/de/content/presseinformationen/presseinformationen_26139.asp",
+          "source_label": "[Press release in German]",
+          "note": "Replaced the obsolete institution press URL with the current University Medical Center Göttingen summary of this publication."
+        }
+      ]
+    },
+    {
+      "title": "Using Matrix and Tensor Factorizations for the Single-Trial Analysis of Population Spike Trains",
+      "year": "2016",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1005189",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1005189",
+      "source_text": "Onken A., Liu J. K., Karunasekara C. R., Delis I., Gollisch T. and Panzeri S. Using Matrix and Tensor Factorizations for the Single-Trial Analysis of Population Spike Trains. PLoS Comput Biol 12(11): e1005189 (2016)  [PDF] [Code] [Data] DOI: 10.1371/journal.pcbi.1005189",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189"
+        },
+        {
+          "text": "[Code]",
+          "url": "https://homepages.inf.ed.ac.uk/aonken/code/"
+        },
+        {
+          "text": "[Data]",
+          "url": "http://dx.doi.org/10.5061/dryad.4ch10"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1005189",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189",
+          "source_url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://homepages.inf.ed.ac.uk/aonken/code/",
+          "source_url": "https://homepages.inf.ed.ac.uk/aonken/code/",
+          "source_label": "[Code]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.5061/dryad.4ch10",
+          "source_url": "http://dx.doi.org/10.5061/dryad.4ch10",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Mechanisms and functional roles of glutamatergic synapse diversity in a cerebellar circuit",
+      "year": "2016",
+      "doi": "https://doi.org/10.7554/eLife.15872",
+      "paper_url": "https://doi.org/10.7554/eLife.15872",
+      "source_text": "Zampini, V.*, Liu, J. K.*, Diana, M.A., Maldonado, P.P., Brunel, N., Dieudonné, S. (*These authors contributed equally to this work), Mechanisms and functional roles of glutamatergic synapse diversity in a cerebellar circuit. eLife, 5:e15872 (2016)  [PDF] [Code] DOI: 10.7554/eLife.15872",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "https://elifesciences.org/content/5/e15872"
+        },
+        {
+          "text": "Code",
+          "url": "https://github.com/jiankliu/Granular-Layer-Network"
+        },
+        {
+          "text": "10.7554/eLife.15872",
+          "url": "https://elifesciences.org/articles/15872"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://elifesciences.org/content/5/e15872",
+          "source_url": "https://elifesciences.org/content/5/e15872",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Code",
+          "url": "https://github.com/jiankliu/Granular-Layer-Network",
+          "source_url": "https://github.com/jiankliu/Granular-Layer-Network",
+          "source_label": "Code"
+        },
+        {
+          "label": "Published version",
+          "url": "https://elifesciences.org/articles/15872",
+          "source_url": "https://elifesciences.org/articles/15872",
+          "source_label": "10.7554/eLife.15872"
+        }
+      ]
+    },
+    {
+      "title": "Spike-Triggered Covariance Analysis Reveals Phenomenological Diversity of Contrast Adaptation in the Retina",
+      "year": "2015",
+      "doi": "https://doi.org/10.1371/journal.pcbi.1004425",
+      "paper_url": "https://doi.org/10.1371/journal.pcbi.1004425",
+      "source_text": "Liu, J. K., Gollisch, T., Spike-Triggered Covariance Analysis Reveals Phenomenological Diversity of Contrast Adaptation in the Retina, PLoS Comput Biol 11(7): e1004425 (2015). [PDF] [Data] (DOI: 10.1371/journal.pcbi.1004425)",
+      "source_links": [
+        {
+          "text": "[PDF]",
+          "url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425"
+        },
+        {
+          "text": "[Data]",
+          "url": "http://datadryad.org/resource/doi:10.5061/dryad.7r7n7"
+        },
+        {
+          "text": "10.1371/journal.pcbi.1004425",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Full text",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425",
+          "source_url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425",
+          "source_label": "[PDF]"
+        },
+        {
+          "label": "Data",
+          "url": "https://doi.org/10.5061/dryad.7r7n7",
+          "source_url": "http://datadryad.org/resource/doi:10.5061/dryad.7r7n7",
+          "source_label": "[Data]"
+        }
+      ]
+    },
+    {
+      "title": "Embedding Multiple Trajectories in Simulated Recurrent Neural Networks in a Self-Organizing Manner",
+      "year": "2009",
+      "doi": "https://doi.org/10.1523/JNEUROSCI.2358-09.2009",
+      "paper_url": "https://doi.org/10.1523/JNEUROSCI.2358-09.2009",
+      "source_text": "Liu, J. K., Buonomano, D. V., Embedding Multiple Trajectories in Simulated Recurrent Neural Networks in a Self-Organizing Manner, J. Neuroscience, 29(42):13172-13181. (2009) [PDF] [Suppl. Movie] DOI: 10.1523/JNEUROSCI.2358-09.2009",
+      "source_links": [
+        {
+          "text": "PDF",
+          "url": "https://www.researchgate.net/publication/38027580_Embedding_Multiple_Trajectories_in_Simulated_Recurrent_Neural_Networks_in_a_Self-Organizing_Manner"
+        },
+        {
+          "text": "Suppl. Movie",
+          "url": "http://www.jneurosci.org/content/29/42/13172/tab-figures-data"
+        },
+        {
+          "text": "10.1523/JNEUROSCI.2358-09.2009",
+          "url": "http://www.jneurosci.org/content/29/42/13172"
+        }
+      ],
+      "resources": [
+        {
+          "label": "ResearchGate full text",
+          "url": "https://www.researchgate.net/publication/38027580_Embedding_Multiple_Trajectories_in_Simulated_Recurrent_Neural_Networks_in_a_Self-Organizing_Manner",
+          "source_url": "https://www.researchgate.net/publication/38027580_Embedding_Multiple_Trajectories_in_Simulated_Recurrent_Neural_Networks_in_a_Self-Organizing_Manner",
+          "source_label": "PDF"
+        },
+        {
+          "label": "Supplementary movie",
+          "url": "https://www.jneurosci.org/content/29/42/13172/tab-figures-data",
+          "source_url": "http://www.jneurosci.org/content/29/42/13172/tab-figures-data",
+          "source_label": "Suppl. Movie"
+        },
+        {
+          "label": "Published version",
+          "url": "https://www.jneurosci.org/content/29/42/13172",
+          "source_url": "http://www.jneurosci.org/content/29/42/13172",
+          "source_label": "10.1523/JNEUROSCI.2358-09.2009"
+        }
+      ]
+    }
+  ]
+}

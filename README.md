@@ -7,6 +7,9 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 - `index.html`: homepage, research, selected projects, news, joining and contact information.
 - `people.html`: principal investigator, team directory and alumni.
 - `publications.html`: complete publication archive, with search and year filters.
+- `publications.json`: structured publication resources, profile links and migration provenance.
+- `visual-coding.html`: local visual coding demonstration notes and links to the paper, code and data.
+- `visual-coding.json`: demonstration source notes, including the three original videos that are currently unavailable.
 - `news.html`: lab news archive, with search and year filters from 2022 onwards.
 - `news.json`: structured news records, original dates and source provenance.
 - `assets/css/styles.css`: shared typography, colours and responsive layouts.
@@ -14,7 +17,7 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 - `assets/images/people/`: local, optimized team portraits.
 - `assets/images/sources.json`: original portrait sources and image processing notes.
 
-The site uses plain HTML, CSS and JavaScript. It needs no framework, package install, API key or build step. All content is readable when JavaScript is disabled.
+The site uses plain HTML, CSS and JavaScript. It needs no framework, package install, API key or build step. All content is readable when JavaScript is disabled. The root HTML pages contain the content directly; the JSON records are maintenance and provenance files, with no browser JavaScript dependency.
 
 ## Preview locally
 
@@ -30,7 +33,9 @@ When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or
 
 ## Update publications
 
-Add a `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Selected recent papers are also featured in `index.html`.
+Add a `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put full-text, code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. Selected recent papers are also featured in `index.html`.
+
+The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. All publication resources are linked directly from this site; the former Google Sites archive is no longer required. The visual coding demos have their own local page, `visual-coding.html`. Its three original YouTube videos are currently unavailable; the page preserves the demonstration descriptions and working paper, code and data links, while `visual-coding.json` records their source status. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The former Striking Image page had also been repurposed, so its link now opens the matching paper's Figure 1. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
 
 ## Publishing
 
