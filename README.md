@@ -6,7 +6,7 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 
 - `index.html`: homepage, research, selected projects, news, joining and contact information.
 - `people.html`: principal investigator, team directory and alumni.
-- `publications.html`: complete publication archive, with search and year filters.
+- `publications.html`: selected publications with code, with search and year filters.
 - `publications.json`: structured publication resources, profile links and migration provenance.
 - `news.html`: lab news archive, with search and year filters from 2022 onwards.
 - `news.json`: structured news records, original dates and source provenance.
@@ -31,15 +31,15 @@ When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or
 
 ## Update publications
 
-Add a `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put full-text, code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. Selected recent papers are also featured in `index.html`.
+List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put full-text, code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. Selected recent papers are also featured in `index.html`.
 
-The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. All publication resources are linked directly from this site; the former Google Sites archive is no longer required. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The former Striking Image page had also been repurposed, so its link now opens the matching paper's Figure 1. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
+The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site; the former Google Sites archive is no longer required. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The former Striking Image page had also been repurposed, so its link now opens the matching paper's Figure 1. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
 
 ## Publishing
 
 Commit changes to `main`. GitHub Pages builds and publishes the static files. Keep the existing `notebook_images/` and `index.md` teaching/archive files unless their removal is intentional.
 
-The redesign preserves the existing publication archive and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive is now hosted here.
+The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive is now hosted here.
 
 ## Update news
 
