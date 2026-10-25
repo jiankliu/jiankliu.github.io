@@ -364,3 +364,34 @@ svg { max-width: 100%; }
   .highlight-jump-links a { min-height: 44px; }
   .highlight-reference { padding: 23px; }
 }
+
+/* Joining FAQ: native details remain usable without JavaScript. */
+.join-hero .profile-links { align-items: center; gap: 18px 30px; }
+.faq-group-grid { display: grid; grid-template-columns: minmax(220px, .8fr) minmax(0, 1.8fr); align-items: start; gap: 70px; }
+.faq-group-heading h2 { margin-bottom: 22px; }
+.faq-group-heading > p:last-child { color: var(--muted); font-size: 14px; max-width: 310px; }
+.faq-list { border-top: 1px solid var(--line); min-width: 0; }
+.faq-item { border-bottom: 1px solid var(--line); }
+.faq-item summary { display: flex; justify-content: space-between; align-items: start; gap: 24px; padding: 24px 0; cursor: pointer; list-style: none; }
+.faq-item summary::-webkit-details-marker { display: none; }
+.faq-item summary::marker { content: ""; }
+.faq-item summary h3 { font: 400 23px/1.35 var(--serif); letter-spacing: -.02em; margin: 0; }
+.faq-toggle { flex: 0 0 20px; color: var(--clay); font-size: 24px; line-height: 1.2; text-align: center; }
+.faq-toggle::before { content: "+"; }
+.faq-item[open] .faq-toggle::before { content: "−"; }
+.faq-answer { padding: 0 44px 26px 0; color: var(--muted); font-size: 14px; line-height: 1.85; }
+.faq-answer p:last-child { margin-bottom: 0; }
+.faq-answer ul { padding-left: 20px; margin: 20px 0; }
+.faq-answer li + li { margin-top: 12px; }
+.faq-answer strong { color: var(--ink); font-weight: 600; }
+.faq-links { display: flex; flex-wrap: wrap; gap: 14px 25px; margin-top: 22px; }
+.faq-links .text-link { color: var(--ink); white-space: normal; gap: 12px; max-width: 100%; }
+.join-contact-section { padding-top: 20px; }
+@media (max-width: 800px) {
+  .faq-group-grid { grid-template-columns: 1fr; gap: 30px; }
+  .faq-group-heading > p:last-child { max-width: 540px; margin-bottom: 0; }
+  .faq-item summary { gap: 20px; padding: 22px 0; }
+  .faq-item summary h3 { font-size: 21px; }
+  .faq-answer { padding-right: 0; }
+  .join-hero .text-link { white-space: normal; }
+}
