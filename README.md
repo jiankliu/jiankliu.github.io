@@ -33,8 +33,6 @@ From the repository directory, run `python3 -m http.server 8000`, then open http
 
 Save an approved portrait in `assets/images/people/` using a descriptive filename such as `firstname-lastname.jpg`. Use a JPEG around 640 pixels on its longest edge, and remove private metadata. Update the relevant image and name in `people.html`; update `index.html` too if the person is featured there. Keep the image `alt` text matched to the person's name, and update the portrait source record.
 
-Lana Whitmarsh's original source image is a recruitment mascot rather than a portrait. Her directory card intentionally uses initials. To add her photo, replace that fallback with the same `portrait-wrap` / `img data-portrait` structure used by the other team cards.
-
 When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or `students`) and `data-search-text` so filters include the new card.
 
 ## Update publications
