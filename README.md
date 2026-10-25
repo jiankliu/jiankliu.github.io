@@ -5,6 +5,8 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 ## Files
 
 - `index.html`: homepage, research, selected projects, news, joining and contact information.
+- `research-highlights.html`: project explanations, research figures, references and code links.
+- `research-highlights.json`: structured highlight content, figure locations and source provenance.
 - `people.html`: principal investigator, team directory and alumni.
 - `publications.html`: selected publications with code, with search and year filters.
 - `publications.json`: structured publication resources, profile links and migration provenance.
@@ -14,6 +16,8 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 - `assets/js/site.js`: mobile navigation, directory filters, publication search and news search.
 - `assets/images/people/`: local, optimized team portraits.
 - `assets/images/sources.json`: original portrait sources and image processing notes.
+- `assets/images/highlight-*.png`: local figures used in the research highlights.
+- `assets/images/highlight-sources.json`: figure source URLs, dimensions and checksums.
 
 The site uses plain HTML, CSS and JavaScript. It needs no framework, package install, API key or build step. All content is readable when JavaScript is disabled. The root HTML pages contain the content directly; the JSON records are maintenance and provenance files, with no browser JavaScript dependency.
 
@@ -41,7 +45,13 @@ The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu
 
 Commit changes to `main`. GitHub Pages builds and publishes the static files. Keep the existing `notebook_images/` and `index.md` teaching/archive files unless their removal is intentional.
 
-The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive is now hosted here.
+The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive and research highlights are now hosted here.
+
+## Update research highlights
+
+The four Selected work cards on `index.html` link to matching section IDs in `research-highlights.html`. Keep those IDs stable when editing a project so existing links continue to work. The dedicated page includes the four existing selections and the GPCR bioactivity project from the current source page.
+
+Keep each highlight's explanation, figure caption and reference together. Use only Paper and Code resource controls, following the site's simplified publication links. Use accurate image `alt` text and retain local figures under `assets/images/`. Record the same content and source details in `research-highlights.json`, and figure provenance in `assets/images/highlight-sources.json`; it is a maintenance record, and the HTML works without JavaScript. Preserve the scope of the reported evidence, including simulated robotic control and experimental findings rather than clinical deployment claims.
 
 ## Update news
 

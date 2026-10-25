@@ -1,0 +1,136 @@
+{
+  "source_url": "https://sites.google.com/site/jiankliu/research-highlights",
+  "migrated_on": "2026-10-25",
+  "description": "Research highlights migrated from the original lab page, with the four existing homepage selections retained and the current GPCR highlight included. Original source text and figure provenance are recorded here.",
+  "entries": [
+    {
+      "id": "brain-to-robot",
+      "title": "Brain-to-robot hand decoding",
+      "short_title": "Brain-to-robot",
+      "category": "Brain–machine interfaces",
+      "year": "2026",
+      "summary": "A Copilot framework checks neural-signal motion predictions for smoother robotic hand control.",
+      "paragraphs": [
+        "Brain–computer interfaces translate neuronal activity into commands for external systems. This work combines EEG and EEG–EMG recordings with a neural network that predicts hand trajectories, then uses a separate motion-state critic to assess the reliability of those predictions.",
+        "The Copilot framework filters low-confidence trajectory points before they control a Franka Panda robotic arm in a MuJoCo simulation. By checking the first prediction with a second model, the study explores a way to make decoded movement more reliable. Healthcare, rehabilitation and human–machine interaction are possible future applications."
+      ],
+      "image": {
+        "path": "assets/images/highlight-brain-robot.png",
+        "alt": "Overview of neural-signal acquisition, motion decoding and the Copilot framework for robotic control.",
+        "caption": "The Copilot framework links neural-signal decoding with a second assessment of predicted movement. Robotic control was evaluated in simulation.",
+        "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72tXyszBjx-VtOd97UMVCxekGOq3rCm64SNorMGM3d9HChY-LfePAGMf5rXMt6eILQbYkM93YeGUfyCz2qEG08bZaniNvNwIMD1EXJXf069q2cdn-deEXLsaKvm-R9bD_OTAFhHYiUxI75rVp30QJ1vpLs_ipzKWLrBh7aud2-5pJagY0r6xrFaHZK_b2SpzCYzyiSm7_Tj-btakJaDKA_enE_03ndJdlXqPNazYIf8=w1280",
+        "width": 1280,
+        "height": 991
+      },
+      "reference": "Li, Y., Wang, S. and Liu, J. K. Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding (2026).",
+      "paper": "https://doi.org/10.48550/arXiv.2603.27492",
+      "code": "https://github.com/ssshiFang/EEGDecoding_Robotarm",
+      "source_text": "Figure:  This work presents a brain–computer interface system that decodes human brain activity into robotic hand movements using EEG, EMG, and AI-based trajectory prediction. A novel “Copilot” framework filters unreliable motion predictions, enabling smoother and more natural robot control. The study highlights how non-invasive neural signals can drive intelligent robotic systems for future healthcare, rehabilitation, and human–machine interaction.\n\nReference: Li, Y., Wang, S., Liu, J. K. Copilot-Assisted Second-Thought Framework for Brain-to-Robot Hand Motion Decoding, International Conference on Automation Intelligence (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2603.27492\n\n\n",
+      "source_status": "live_google_highlight"
+    },
+    {
+      "id": "domain-aware-drug-discovery",
+      "title": "Domain-aware drug discovery",
+      "short_title": "DAGML",
+      "category": "Molecular machine learning",
+      "year": "2026",
+      "summary": "DAGML models protein domains, their interfaces and ligand motifs to predict protein-ligand affinity.",
+      "paragraphs": [
+        "Proteins often contain several functional domains. Treating a multi-domain protein as one uniform structure can dilute signals at domain interfaces and overlook binding sites in the clefts between domains. DAGML instead represents the protein as a collection of interacting functional units.",
+        "The model combines protein language representations from ESM-2 with a geometric encoder and learnable domain embeddings. Sparse message passing focuses on nearby inter-domain contacts, using an 8 Å distance threshold, while reducing the influence of flexible linker regions.",
+        "For ligands, motif-centred representations capture functional groups rather than relying only on individual atoms. The resulting domain-aware geometric multimodal model brings protein interfaces and ligand motifs together for protein–ligand affinity prediction."
+      ],
+      "image": {
+        "path": "assets/images/highlight-dagml.png",
+        "alt": "DAGML architecture combining domain-aware protein representations, inter-domain interactions and ligand motifs.",
+        "caption": "DAGML combines domain-aware protein representations and ligand motif features to predict binding affinity.",
+        "source_url": "https://arxiv.org/html/2601.17102v1/model_arch.png",
+        "width": 1435,
+        "height": 740
+      },
+      "reference": "Zhang, S. and Liu, J. K. Domain-Aware Geometric Multimodal Learning for Multi-Domain Protein-Ligand Affinity Prediction. 14th International Conference on Bioinformatics and Computational Biology (2026).",
+      "paper": "https://doi.org/10.48550/arXiv.2601.17102",
+      "code": "https://github.com/jiankliu/DAGML",
+      "source_text": "The cached original Google Sites highlight describes hierarchical ESM-2 and geometric protein representations, learnable domain embeddings, sparse inter-domain message passing with an 8 Å threshold, and motif-centric ligand encoding.",
+      "source_status": "cached_google_highlight_with_primary_paper_figure"
+    },
+    {
+      "id": "tumour-associated-seizures",
+      "title": "Tumour-associated seizures",
+      "short_title": "Tumour-associated seizures",
+      "category": "Computational neuroscience",
+      "year": "2025",
+      "summary": "Experiments and modelling investigate neuronal changes in the peritumoral cortex and seizure progression.",
+      "paragraphs": [
+        "Why do brain tumours lead to seizures in some patients? This study examines the peritumoral cortex: the brain tissue surrounding a tumour. Recordings from resected human tissue reveal differences in synaptic activity, dendritic spines and gene expression between patients with and without tumour-associated seizures.",
+        "An inducible glioma mouse model follows neuronal changes during tumour development, while computational models explore how altered synaptic inputs and dendritic properties can produce hyperexcitability and paroxysmal depolarising shifts (PDS). In the studied patient cohort, PDS activity was associated with later postoperative seizures, suggesting a potential biomarker for further investigation.",
+        "Applying sulfasalazine to mouse brain slices partially reversed some neuronal abnormalities. Together, the human recordings, animal experiments and modelling connect tumour-associated changes in neuronal function with seizure progression. These findings support further research into mechanisms, prediction and treatment."
+      ],
+      "image": {
+        "path": "assets/images/highlight-seizures.png",
+        "alt": "Research overview connecting peritumoral neuronal changes, glioma experiments and computational modelling of seizures.",
+        "caption": "Human tissue recordings, glioma experiments and computational models investigate neuronal changes around brain tumours.",
+        "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72sEPffTy1RjZcBDm_hOK7xdotV8yWu4v6R8Yg24NvQPml8B6-YXBW_YEtbME5s9KIz3Pqfbp4sU6200ZNVuHksGfgkUMLaWdERD5bKEiTiQf1eDSo73VD6NiR2l766oRkA0pk65gB6io-VVHxEhY-o6lmhoe25zLOTYtOtwaa8xsgE9nSuUE2H6MY51RRqjBTQhebAREBwxhClq1TN-hUuh1l5FZd73p5BErOW9=w1280",
+        "width": 1024,
+        "height": 556
+      },
+      "reference": "Bouwen, B., Bolleboom, A., Tang, Y., Yu, Z., van der Stap, A., van Rij, J., van Dis, V., Dirven, C., de Zeeuw, C., van Tellingen, O., Liu, J. K., Vincent, A. and Gao, Z. Aberrant neural activity in the peritumoral cortex underlies the progression of tumor associated seizures. Nature Communications 16, 10846 (2025).",
+      "paper": "https://doi.org/10.1038/s41467-025-66226-5",
+      "code": "https://github.com/ydtang/Seizure-model",
+      "source_text": "Figure: This study systematically investigates the neuronal mechanisms of tumor-associated seizures (TAS), focusing on pathophysiological alterations in the peritumoral cortex (PTC). By analyzing cortical tissue from brain tumor patients undergoing resection, the authors demonstrate that pyramidal neurons in the PTC of patients with TAS exhibit significant differences in synaptic activity, dendritic spine density, and gene expression compared to seizure-free patients. Using an inducible glioma mouse model, the research tracks the progression of these neuronal changes during early tumor development, revealing that hyperexcitability emerges prior to seizure onset. Computational modeling indicates that human cortical neurons are highly sensitive to synaptic and dendritic perturbations, leading to paroxysmal depolarizing shifts (PDS) in affected networks. Longitudinal clinical analysis shows that PDS can be detected before clinical seizures in a subset of patients and serves as a reliable predictor of post-operative seizure occurrence. Additionally, the FDA-approved drug sulfasalazine is shown to partially reverse neuronal abnormalities in the mouse model. These findings identify key neuronal substrates of TAS and propose PDS as a potential biomarker for seizure risk, providing a foundation for targeted diagnostic and therapeutic strategies.\n\nReference: Bouwen, B., Bolleboom, A., Tang, Y., Yu, Z., van der Stap, A., van Rij, J., van Dis, V., Dirven, C., de Zeeuw, C., van Tellingen, O., Liu, J. K., Vincent, A., Gao, Z., Aberrant neural activity in the peritumoral cortex underlies the progression of tumor associated seizures, Nature Communications, 16, 10846 (2025). [PDF][[CODE]  DOI:10.1038/s41467-025-66226-5",
+      "source_status": "live_google_highlight"
+    },
+    {
+      "id": "decoding-visual-scenes",
+      "title": "Decoding natural visual scenes",
+      "short_title": "WISA",
+      "category": "Neural coding",
+      "year": "2025",
+      "summary": "WISA combines wavelet features and temporal modelling to reconstruct visual scenes from neural spikes.",
+      "paragraphs": [
+        "Reconstructing a visual scene from neural spikes requires a model to capture the timing and structure of neuronal responses. WISA studies this problem using recorded retinal activity, combining time–frequency features with temporal modelling before decoding the visual image.",
+        "A wavelet transform extracts features at multiple scales. A temporal convolutional network refines these features, and an inverse wavelet transform produces augmented spike trains for a convolutional image decoder. The study reports improved reconstruction fidelity compared with the methods evaluated in the paper."
+      ],
+      "image": {
+        "path": "assets/images/highlight-wisa.png",
+        "alt": "WISA processing pipeline with wavelet decomposition, temporal modelling, inverse wavelet transformation and visual decoding.",
+        "caption": "The WISA pipeline augments spike trains with wavelet and temporal features before reconstructing visual scenes.",
+        "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72s2d5BcjwDqVPEkIYKRCDnyTp6MqlhsNGEvqB59aB-NCwsuRaFQYPihBcNyh21g6VWDQ_l7XuzeV08F5xk2msmCoY0kKbX1Cm5RhEaexlVw5a6ZK0_y1DI7twBXoyeAsWgjSt8uUQBickIX21b-wrrBC29MtxEuVt88SZcX93upqFcicJljEs4PT1JTFvWjmafKSVriUtimRwCtitVQwoEe9JYfGLy41d_bZj9cz0s=w1280",
+        "width": 1024,
+        "height": 496
+      },
+      "reference": "Peng, J., Jia, S., Zhang, J., Wang, Y., Yu, Z. and Liu, J. K. Decoding Natural Visual Scenes via Learnable Representations of Neural Spiking Sequences. Neural Networks 192, 107863 (2025).",
+      "paper": "https://doi.org/10.1016/j.neunet.2025.107863",
+      "code": "https://github.com/jiankliu/WISA",
+      "source_text": "Figure: The WISA model enhances visual scene reconstruction from neural spikes by first applying a wavelet transform to extract time-frequency features, refining them with a temporal convolutional network, and then using an inverse wavelet transform to create augmented spike trains for a CNN-based decoder, significantly improving reconstruction fidelity over existing methods.\n\nReference: Peng, J., Jia, S, Zhang, J., Wang, Y., Yu, Z., Liu, J. K., Decoding Natural Visual Scenes via Learnable Representations of Neural Spiking Sequences, Neural Netw.  192, 107863 (2025)  [PDF] [CODE] DOI: 10.1016/j.neunet.2025.107863",
+      "source_status": "live_google_highlight"
+    },
+    {
+      "id": "gpcr-bioactivity",
+      "title": "Predicting GPCR ligand bioactivity",
+      "short_title": "GPCR bioactivity",
+      "category": "Physics-informed machine learning",
+      "year": "2026",
+      "summary": "Dual-State Query learns active and inactive receptor states to predict how ligands affect GPCR activity.",
+      "paragraphs": [
+        "Drug discovery needs to establish more than whether a molecule binds to a receptor: it also needs to predict how that molecule changes receptor activity. Dual-State Query (DSQ) addresses this distinction for G protein-coupled receptors (GPCRs), using protein and ligand representations without explicit three-dimensional structure input.",
+        "The model learns latent representations of active and inactive receptor states and combines them through an allosteric gating mechanism inspired by the Monod–Wyman–Changeux framework. Prediction benchmarks show improved bioactivity modelling, including for agonists. The work also identifies challenges for receptors with low sequence similarity to those seen during training."
+      ],
+      "image": {
+        "path": "assets/images/highlight-gpcr.png",
+        "alt": "Dual-State Query architecture representing active and inactive GPCR states with physics-informed allosteric gating.",
+        "caption": "Dual-State Query combines active and inactive receptor representations through physics-informed allosteric gating.",
+        "source_url": "https://sites.google.com/sitesv-images-rt/AMxu72vHXmzttvjJ1qiWsuxBNmrB1bKGXKQbGmBEjgEMKe4LPVRG6cZyPRpiEaj7YIRo36GeKoyT4gPvGXwewTwMVyxs5iF1y78yIBCqZ3PES_Vs-p1udyrHfNlOjtPmyNPynfDHke9ZU3Vgv7bEuWbFntzmurYRy4uN6cx05ocUSBPH20KC3htumBYv2jIqVjH06UAGfcxP9nfC-Sn40PqRM_hWwPexyO9NAhckQQecZTU=w1280",
+        "width": 773,
+        "height": 437
+      },
+      "reference": "Zhang, S., Zhang, H., Hong, R. and Liu, J. K. GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning (2026).",
+      "paper": "https://doi.org/10.48550/arXiv.2609.16468",
+      "code": "https://github.com/jiankliu/DSQ",
+      "source_text": "Figure: Dual-State Query (DSQ) marks a major breakthrough in AI-driven drug discovery by solving a long-standing challenge: accurately predicting not just whether a molecule will bind to a cell receptor, but whether it will activate or block it. G protein-coupled receptors (GPCRs) are the targets for roughly a third of all modern medicines, yet designing effective drugs for them has traditionally required expensive, difficult-to-obtain 3D protein structures. By embedding fundamental biophysical principles directly into AI, DSQ bypasses the need for 3D crystal structures, dramatically reducing experimental guesswork and accelerating early-stage drug screening for complex diseases. Beyond improving prediction accuracy—especially for challenging drug candidates like agonists—this research provides a scalable blueprint for building \"physics-informed\" AI models that deliver both high-precision drug profiling and actionable biological insights. \n\nReference: Zhang, S., Zhang, H., Hong, R., Liu, J. K., GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning, 22nd International Symposium on Bioinformatics Research and Applications (2026)  [PDF][CODE] DOI: 10.48550/arXiv.2609.16468 ",
+      "source_status": "live_google_highlight",
+      "reference_note": "The original lab page and paper record give different conference names, so this reference uses the title and year."
+    }
+  ],
+  "figure_provenance": "assets/images/highlight-sources.json"
+}
