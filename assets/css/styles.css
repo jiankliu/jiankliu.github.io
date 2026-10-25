@@ -91,7 +91,7 @@ svg { max-width: 100%; }
 .person-initials-note { font-size: 10px; color: var(--muted); margin-top: 7px; }
 .search-field { position: relative; }
 .search-field > svg { position: absolute; top: 13px; left: 12px; color: var(--muted); }
-.search-field input { padding-left: 42px; }
+.search-field input[data-search] { padding-left: 42px; }
 .filter-buttons { margin-top: 18px; }
 .filter-top .result-count { margin: 0; }
 .page-intro { max-width: 680px; }
