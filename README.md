@@ -7,8 +7,10 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 - `index.html`: homepage, research, selected projects, news, joining and contact information.
 - `people.html`: principal investigator, team directory and alumni.
 - `publications.html`: complete publication archive, with search and year filters.
+- `news.html`: lab news archive, with search and year filters from 2022 onwards.
+- `news.json`: structured news records, original dates and source provenance.
 - `assets/css/styles.css`: shared typography, colours and responsive layouts.
-- `assets/js/site.js`: mobile navigation, directory filters and publication search.
+- `assets/js/site.js`: mobile navigation, directory filters, publication search and news search.
 - `assets/images/people/`: local, optimized team portraits.
 - `assets/images/sources.json`: original portrait sources and image processing notes.
 
@@ -34,4 +36,10 @@ Add a `publication-item` in `publications.html` in descending year order, follow
 
 Commit changes to `main`. GitHub Pages builds and publishes the static files. Keep the existing `notebook_images/` and `index.md` teaching/archive files unless their removal is intentional.
 
-The redesign preserves the existing publication archive and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked for older news and additional material.
+The redesign preserves the existing publication archive and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive is now hosted here.
+
+## Update news
+
+Add a `news-row` article to `news.html` in descending date order, following an existing archive item. Use `time datetime="YYYY-MM"`, `data-filter-item`, `data-year`, `data-category` (the year) and `data-search-text` so dates and filters remain accessible. Add a year button when the archive enters a new year. Record the same content and source in `news.json`; it is a maintenance record rather than a browser dependency. Highlighted news on `index.html` is maintained separately.
+
+Future-dated announcements must remain visibly labelled “Upcoming” until the event is confirmed. The November 2026 Congrui Yang announcement was upcoming when migrated on 25 October 2026. Dates and degree details were preserved from the original Google Sites homepage. Zhile Yang’s May 2022 welcome was retained from its indexed archive even though it no longer appears on the current source homepage. Recruitment links point directly to the university for current application and funding information.
