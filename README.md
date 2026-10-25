@@ -16,6 +16,7 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 - `news.json`: structured news records, original dates and source provenance.
 - `assets/css/styles.css`: shared typography, colours and responsive layouts.
 - `assets/js/site.js`: mobile navigation, directory filters, publication search and news search.
+- `assets/js/selected-work.js`: keeps homepage section 05 synchronized with section 02’s Paper links.
 - `assets/images/people/`: local, optimized team portraits.
 - `assets/images/sources.json`: original portrait sources and image processing notes.
 - `assets/images/highlight-*.png`: local figures used in the research highlights.
@@ -37,10 +38,14 @@ When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or
 
 ## Update publications
 
-List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. Selected recent papers are also featured in `index.html`.
+List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. The four papers selected in homepage section 02 are also featured in section 05, in the same order.
+
+## Update selected work
+
+The section 02 cards in `index.html` are the source of the homepage selection. Keep `data-highlight-paper` on each card’s Paper link and update that link when selecting a different paper. Section 05 follows those links automatically on page load, including their order, and retrieves full titles, years and author/venue details from `publications.html`. Add the new paper there with its citation when updating a card. No separate section 05 selection needs to be maintained.
+
+The generated HTML contains the current four citations so they remain readable without JavaScript. Refresh that fallback when changing the cards. If the publication page cannot be loaded, existing matching citations remain available; an unlisted paper uses its card title and Paper link until its full citation is added.
 
 ## Update news
 
 Add a `news-row` article to `news.html` in descending date order, following an existing archive item. Use `time datetime="YYYY-MM"`, `data-filter-item`, `data-year`, `data-category` (the year) and `data-search-text` so dates and filters remain accessible. Add a year button when the archive enters a new year. Record the same content and source in `news.json`; it is a maintenance record rather than a browser dependency. Highlighted news on `index.html` is maintained separately.
-
-
