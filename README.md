@@ -47,17 +47,6 @@ The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu
 
 Commit changes to `main`. GitHub Pages builds and publishes the static files. 
 
-
-## Update the joining FAQ
-
-The homepage’s Joining the lab: FAQ link opens `join-us.html`. Keep the eleven questions and their funding, application and lab-life group IDs stable when editing. Each answer uses native `details` and `summary` elements, so it can be expanded with a mouse or keyboard and works without JavaScript. Record the same wording, source evidence and changes in `joining-faq.json`.
-
-## Update research highlights
-
-The four Selected work cards on `index.html` link to matching section IDs in `research-highlights.html`. Keep those IDs stable when editing a project so existing links continue to work. The dedicated page includes the four existing selections and the GPCR bioactivity project from the current source page.
-
-Use only Paper and Code resource controls, following the site's simplified publication links. Use accurate image `alt` text and retain local figures under `assets/images/`. Record the same content and source details in `research-highlights.json`, and figure provenance in `assets/images/highlight-sources.json`.
-
 ## Update news
 
 Add a `news-row` article to `news.html` in descending date order, following an existing archive item. Use `time datetime="YYYY-MM"`, `data-filter-item`, `data-year`, `data-category` (the year) and `data-search-text` so dates and filters remain accessible. Add a year button when the archive enters a new year. Record the same content and source in `news.json`; it is a maintenance record rather than a browser dependency. Highlighted news on `index.html` is maintained separately.
