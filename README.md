@@ -5,6 +5,8 @@ The public laboratory website at https://jiankliu.github.io/, hosted by GitHub P
 ## Files
 
 - `index.html`: homepage, research, selected projects, news, joining and contact information.
+- `join-us.html`: joining guidance and eleven PhD questions, using native expandable answers.
+- `joining-faq.json`: joining questions, source answers and notes on refreshed university guidance.
 - `research-highlights.html`: project explanations, research figures, references and code links.
 - `research-highlights.json`: structured highlight content, figure locations and source provenance.
 - `people.html`: principal investigator, team directory and alumni.
@@ -45,7 +47,13 @@ The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu
 
 Commit changes to `main`. GitHub Pages builds and publishes the static files. Keep the existing `notebook_images/` and `index.md` teaching/archive files unless their removal is intentional.
 
-The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive and research highlights are now hosted here.
+The site retains publication source records and legacy homepage fragments, including `#about` and `#projects`. Portrait names and roles were matched to the cards on the original lab People page. The original Google Sites website remains linked as a source for additional material; the news archive, research highlights and joining FAQ are now hosted here.
+
+## Update the joining FAQ
+
+The homepage’s Joining the lab: FAQ link opens `join-us.html`. Keep the eleven questions and their funding, application and lab-life group IDs stable when editing. Each answer uses native `details` and `summary` elements, so it can be expanded with a mouse or keyboard and works without JavaScript. Record the same wording, source evidence and changes in `joining-faq.json`.
+
+The original joining page contained outdated degree, English-test and funding-cycle details. The new FAQ preserves the lab’s guidance while linking to current University of Birmingham requirements. Check the current programme and funding pages before updating eligibility, fee coverage, deadlines or study duration; avoid promising funding or copying a fixed score or deadline without current evidence.
 
 ## Update research highlights
 

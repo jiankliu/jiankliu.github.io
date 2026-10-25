@@ -1,0 +1,253 @@
+{
+  "source_url": "https://sites.google.com/site/jiankliu/join-us",
+  "migrated_on": "2026-10-25",
+  "description": "All eleven joining questions migrated from the lab’s original page. Lab guidance is retained; current admissions, English language, funding and duration requirements are linked to the University rather than reproducing outdated thresholds.",
+  "source_text": "FAQ for PhD positions\n\n\nQ: What are the current options for doing a PhD in your lab?\n  A: We recruit PhD students in a continuous way. There are various options for joining the lab.\n\nSchool PhD studentship. Open usually at the beginning of the year.\n\nIndustry-sponsored PhD studentship from our collaborating industrial partners. Open for application anytime.\n\nSelf-funded PhD option (we can provide stipend and research budget, while you will pay your tuition fee). Email me first.\n\n\n\nQ: I emailed you about possible PhD positions, but didn't hear you back.\nA: Sorry about this. I am keeping getting a large volume of emails about this. Please email me again after several weeks. Also, please read this FAQ, as most of your questions can be answered here.\n\n\nQ: Do you have fully funded PhD studentships for UK students?\nA: Yes, we have fully funded PhD studentships for candidates of any nationality. Typically, they are open for application around November. Please see the Q1 for details. \n\n\nQ: Do you have fully funded PhD studentships for international students?\nA: Yes, we have fully funded PhD studentships for candidates of any nationality. Typically, they are open for application around November. Please see the Q1. \n\n\nQ: Do you require English language tests?\nA: Yes, the University has a general guideline about this. Some programs require a higher level: IELTS 6.5 overall (with at least 7 in writing and 6.5 other sections) or TOEFL 100 overall (with not less than 25 in writing, and 22 other sections). \n\n\nQ: Do I need to have a MS degree to apply for the PhD study?\nA: Academic Entry requirements are UK Bachelor Degree or equivalent with 1st Class Honours or if holding a UK Bachelor Degree at 2:1 then a Masters’ Degree with Distinction or equivalent is also required. So you do not need a MS if your BS is with 1st Class (roughly above 70%). Otherwise, you will need a MS with Distinction (roughly above 70%).\n\n\nQ: When should I prepare the application?\nA: The application is running all year. Depending on your situation and the funding sources, please get in touch when you are ready. \n\n\nQ: What are you studying? Can I bring my ideas for a possible PhD project?\n\nA: Yes, you are welcome to bring your ideas and projects. We encourage our team members to explore freely. We are working on a wide range of topics in machine learning, together with many collaborators worldwide. Please find our current research topics here. Depending on the interest of each member in our lab, we set up a personal plan to maximize her potential. I am sure that you can find your fit well in our lab.\n\n\n\nQ: How many papers should I publish to get my PHD?\nA: We don't have specific requirements for this. You could graduate without any publication. However, remember that you are putting effort here towards your PHD study and you need some evidence showing that you can graduate and find a job afterward. So you are self-motivated for publications. Certainly, I would like to help you to publish your works whenever they are ready. One or more publications, as you can imagine, will help you find a new position, either academic or industrial.   \n\n\nQ: How many years do I need to get my PHD?\nA: In the UK, a PhD study usually takes 3 years to go. Some studentships offer a 3.5-year or 4-year period of study time. But mostly, a typical period is 3 years. There is a 4th year, called write-up year, during which you can finish up your thesis writing. For a part-time PHD, it typically takes you five years.\n\n\nQ: I would like to know the lab more. Importantly, I want to know if you (the PI) are easy-going or tough.\nA: I can barely recommend myself to you. Please get in touch with our lab fellows. I am sure they have a lot of things to share with you. ",
+  "groups": [
+    {
+      "id": "funding",
+      "title": "Funding & opportunities.",
+      "intro": "Explore the routes into the lab and funding considerations for UK and international applicants."
+    },
+    {
+      "id": "applying",
+      "title": "Preparing your application.",
+      "intro": "What to check, when to get in touch and where to find current university requirements."
+    },
+    {
+      "id": "lab-life",
+      "title": "Research & life in the lab.",
+      "intro": "Bring your questions, explore your interests and hear from the people doing the work."
+    }
+  ],
+  "official_links": {
+    "programme": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd",
+    "how_to_apply": "https://www.birmingham.ac.uk/study/postgraduate/research/how-to-apply",
+    "funding": "https://www.birmingham.ac.uk/study/postgraduate/research/funding",
+    "advertised_projects": "https://www.birmingham.ac.uk/study/postgraduate/research/how-to-apply/findaphd",
+    "computer_science_research": "https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/computer-science/postgraduate-research",
+    "ukri_eligibility": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+  },
+  "migration_notes": [
+    {
+      "topic": "Academic entry",
+      "old": "First-class bachelor’s or 2:1 plus master’s with Distinction.",
+      "current": "2:1 Honours in Computer Science or relevant subject. No blanket master’s requirement.",
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+    },
+    {
+      "topic": "English",
+      "old": "IELTS 6.5 with writing 7; TOEFL 100.",
+      "current": "IELTS 6.0, no band below 5.5. TOEFL rules differ before/from January 2026; link the live programme requirements rather than reproduce all thresholds.",
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+    },
+    {
+      "topic": "Deadlines",
+      "old": "Studentships around November or beginning of year.",
+      "current": "Own-proposal applications year-round; September starters encouraged by 1 June. Advertised project deadlines vary. Most funding opportunities have early-spring deadlines.",
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+    },
+    {
+      "topic": "Duration",
+      "old": "3 years full-time, 4th write-up year, 5 years part-time.",
+      "current": "Course confirms typically 3 years full-time. Do not promise fixed writing-up or part-time duration without the programme offer.",
+      "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+    },
+    {
+      "topic": "Funding nationality",
+      "old": "Fully funded studentships for any nationality.",
+      "current": "Retain welcome to all nationalities, qualify funding by award-specific eligibility and fee coverage. UKRI guidance says international applicants can usually apply but places are limited.",
+      "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+    }
+  ],
+  "entries": [
+    {
+      "id": "phd-routes",
+      "group": "funding",
+      "question": "What are the current options for doing a PhD in your lab?",
+      "paragraphs": [
+        "We welcome PhD enquiries throughout the year. There are several possible routes into the lab:"
+      ],
+      "links": [
+        {
+          "label": "Current funding opportunities",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/research/funding"
+        }
+      ],
+      "source_question": "What are the current options for doing a PhD in your lab?",
+      "source_answer": "We recruit PhD students in a continuous way. There are various options for joining the lab.\n\nSchool PhD studentship. Open usually at the beginning of the year.\n\nIndustry-sponsored PhD studentship from our collaborating industrial partners. Open for application anytime.\n\nSelf-funded PhD option (we can provide stipend and research budget, while you will pay your tuition fee). Email me first.",
+      "bullets": [
+        {
+          "label": "School-funded studentships",
+          "text": "Apply through the relevant school or university funding call."
+        },
+        {
+          "label": "Industry-sponsored studentships",
+          "text": "Opportunities may be supported by the lab’s collaborating industrial partners."
+        },
+        {
+          "label": "Self-funded study",
+          "text": "One possible arrangement is to cover your tuition fees while discussing lab support for stipend and research costs. Email Jian first to discuss what is available before applying."
+        }
+      ]
+    },
+    {
+      "id": "email-follow-up",
+      "group": "applying",
+      "question": "I emailed you about possible PhD positions, but did not hear back.",
+      "paragraphs": [
+        "Jian receives a large number of enquiries. Please read this FAQ first, and follow up by email after several weeks if you have not heard back."
+      ],
+      "links": [],
+      "source_question": "I emailed you about possible PhD positions, but didn't hear you back.",
+      "source_answer": "Sorry about this. I am keeping getting a large volume of emails about this. Please email me again after several weeks. Also, please read this FAQ, as most of your questions can be answered here."
+    },
+    {
+      "id": "uk-funding",
+      "group": "funding",
+      "question": "Do you have fully funded PhD studentships for UK students?",
+      "paragraphs": [
+        "UK applicants are welcome to enquire about funded studentships. Availability, coverage, eligibility and deadlines depend on the specific opportunity; check the advertised award and discuss options with Jian."
+      ],
+      "links": [
+        {
+          "label": "University funding guidance",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/research/funding"
+        }
+      ],
+      "source_question": "Do you have fully funded PhD studentships for UK students?",
+      "source_answer": "Yes, we have fully funded PhD studentships for candidates of any nationality. Typically, they are open for application around November. Please see the Q1 for details."
+    },
+    {
+      "id": "international-funding",
+      "group": "funding",
+      "question": "Do you have fully funded PhD studentships for international students?",
+      "paragraphs": [
+        "International applicants are welcome. Check the particular studentship for nationality or fee-status eligibility and whether international tuition fees are fully covered. Contact Jian to discuss suitable opportunities."
+      ],
+      "links": [
+        {
+          "label": "University funding guidance",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/research/funding"
+        }
+      ],
+      "source_question": "Do you have fully funded PhD studentships for international students?",
+      "source_answer": "Yes, we have fully funded PhD studentships for candidates of any nationality. Typically, they are open for application around November. Please see the Q1."
+    },
+    {
+      "id": "english-language",
+      "group": "applying",
+      "question": "Do you require English language tests?",
+      "paragraphs": [
+        "Applicants must meet the University’s current English language requirements for the Computer Science PhD. Use the programme page for accepted tests, current scores and any applicable alternatives."
+      ],
+      "links": [
+        {
+          "label": "Current English language requirements",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+        }
+      ],
+      "source_question": "Do you require English language tests?",
+      "source_answer": "Yes, the University has a general guideline about this. Some programs require a higher level: IELTS 6.5 overall (with at least 7 in writing and 6.5 other sections) or TOEFL 100 overall (with not less than 25 in writing, and 22 other sections)."
+    },
+    {
+      "id": "masters-degree",
+      "group": "applying",
+      "question": "Do I need a master’s degree to apply for the PhD?",
+      "paragraphs": [
+        "A master’s degree is not a blanket prerequisite in the current Computer Science PhD entry requirements. Please check the programme page for the degree requirements and equivalent international qualifications, and contact admissions if your circumstances need clarification."
+      ],
+      "links": [
+        {
+          "label": "Academic entry requirements",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+        }
+      ],
+      "source_question": "Do I need to have a MS degree to apply for the PhD study?",
+      "source_answer": "Academic Entry requirements are UK Bachelor Degree or equivalent with 1st Class Honours or if holding a UK Bachelor Degree at 2:1 then a Masters’ Degree with Distinction or equivalent is also required. So you do not need a MS if your BS is with 1st Class (roughly above 70%). Otherwise, you will need a MS with Distinction (roughly above 70%)."
+    },
+    {
+      "id": "application-timing",
+      "group": "applying",
+      "question": "When should I prepare the application?",
+      "paragraphs": [
+        "Get in touch when you are ready to discuss your research interests. Own-proposal applications are accepted throughout the year, while advertised projects and funding calls have their own deadlines. Allow time for the application and supporting documents."
+      ],
+      "links": [
+        {
+          "label": "How to apply",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/research/how-to-apply"
+        },
+        {
+          "label": "Advertised research projects",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/research/how-to-apply/findaphd"
+        }
+      ],
+      "source_question": "When should I prepare the application?",
+      "source_answer": "The application is running all year. Depending on your situation and the funding sources, please get in touch when you are ready."
+    },
+    {
+      "id": "project-ideas",
+      "group": "lab-life",
+      "question": "What are you studying? Can I bring my ideas for a possible PhD project?",
+      "paragraphs": [
+        "Yes. You are welcome to bring your own ideas and projects. The lab works across neural computation and machine learning with collaborators worldwide, and develops an individual research plan with each member. Explore the research and highlights pages to find shared interests."
+      ],
+      "links": [
+        {
+          "label": "Research areas",
+          "url": "index.html#research"
+        },
+        {
+          "label": "Research highlights",
+          "url": "research-highlights.html"
+        }
+      ],
+      "source_question": "What are you studying? Can I bring my ideas for a possible PhD project?",
+      "source_answer": "Yes, you are welcome to bring your ideas and projects. We encourage our team members to explore freely. We are working on a wide range of topics in machine learning, together with many collaborators worldwide. Please find our current research topics here. Depending on the interest of each member in our lab, we set up a personal plan to maximize her potential. I am sure that you can find your fit well in our lab."
+    },
+    {
+      "id": "publications",
+      "group": "lab-life",
+      "question": "How many papers should I publish to get my PhD?",
+      "paragraphs": [
+        "The lab does not set a fixed publication count. We support publishing work when it is ready, and publications can help communicate your research and support future academic or industry applications. Degree requirements are determined by the University."
+      ],
+      "links": [],
+      "source_question": "How many papers should I publish to get my PHD?",
+      "source_answer": "We don't have specific requirements for this. You could graduate without any publication. However, remember that you are putting effort here towards your PHD study and you need some evidence showing that you can graduate and find a job afterward. So you are self-motivated for publications. Certainly, I would like to help you to publish your works whenever they are ready. One or more publications, as you can imagine, will help you find a new position, either academic or industrial."
+    },
+    {
+      "id": "phd-duration",
+      "group": "applying",
+      "question": "How many years do I need to get my PhD?",
+      "paragraphs": [
+        "The University currently describes the Computer Science PhD as typically three years full-time. Studentship funding periods and any writing-up arrangements vary; check your programme and funding offer. Discuss part-time study and its duration with admissions."
+      ],
+      "links": [
+        {
+          "label": "Programme and study options",
+          "url": "https://www.birmingham.ac.uk/study/postgraduate/subjects/computer-science-and-data-science-courses/computer-science-phd"
+        }
+      ],
+      "source_question": "How many years do I need to get my PHD?",
+      "source_answer": "In the UK, a PhD study usually takes 3 years to go. Some studentships offer a 3.5-year or 4-year period of study time. But mostly, a typical period is 3 years. There is a 4th year, called write-up year, during which you can finish up your thesis writing. For a part-time PHD, it typically takes you five years."
+    },
+    {
+      "id": "working-style",
+      "group": "lab-life",
+      "question": "How can I learn more about the lab and the PI’s supervision style?",
+      "paragraphs": [
+        "Please contact current lab members. They can share their experience of the research environment, working with the PI and life in the lab."
+      ],
+      "links": [
+        {
+          "label": "Meet the team",
+          "url": "people.html"
+        }
+      ],
+      "source_question": "I would like to know the lab more. Importantly, I want to know if you (the PI) are easy-going or tough.",
+      "source_answer": "I can barely recommend myself to you. Please get in touch with our lab fellows. I am sure they have a lot of things to share with you."
+    }
+  ]
+}
