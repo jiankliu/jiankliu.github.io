@@ -1,0 +1,517 @@
+{
+  "retrieved_date": "2026-10-25",
+  "source_page": "https://sites.google.com/site/jiankliu/people",
+  "identity_mapping": "Photo and name occur in the same single-image DOM container on the source People page.",
+  "processing": "Images captured from original source image URLs through the browser. Viewer margins removed using measured DOM rectangles; no subject crop; max 640px longest edge; JPEG quality 87; no EXIF.",
+  "portraits": [
+    {
+      "name": "Jian K. Liu",
+      "role": "Principal Investigator",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72uhpagNTHmsfSliEAChu2pupHpXQ-gpsMSHuGocB4jlor6sRmaNEEw8OluVdmBNUPdd25VAIbtmfWbR5Sj2oRjWeZt8GG6cixnHcH0RWNvms9OpP-TO8tT5SyKctgSK86dROCNj0Y0Nk0xdrPeCsmFcgqKxHd2DzMp9DHay3BAPVyR_HHQ98UGPflQBhKMgB3JalJZvJJOu5U1VDCgW9Jl4Mt9DXfMkCecj871D0dY=w1280",
+      "path": "people/jian-k-liu.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        720,
+        1076
+      ],
+      "source_capture_sha256": "e02b52861094f7d7c454a673998781c9f07e292e9e10febf9c35b94a9d65f6b2",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        481,
+        720
+      ],
+      "dimensions": [
+        428,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 37179,
+      "sha256": "84fa3b41d5ed89009b43a3df5c7a654f827392ea6efc0859376f9d962248e440"
+    },
+    {
+      "name": "Robin Bristow",
+      "role": "Research Fellow",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72vyiU3Q5SBxkbw4ruSphyaB6a59qT9BYi2uC-ABe9hQQXJRgdpNVS-vGDhH1U865nVlxMGRgawy0lyivrroZSWKfLSMpSWnE0hfYDHcFEVT19Gh5PNfLlrZCaX-iNvPqb426lpYdMusmqsE9C1gc3k92hU4ABTvqA1RHavWtgZ3LgX2ZYxrvgyEwzsviaXShvJTTK2Z6dvwnxNLbIxlb0bF6E86ZbAN_y7A=w1280",
+      "path": "people/robin-bristow.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        460,
+        677
+      ],
+      "source_capture_sha256": "70bdec0f5f03cc79d239ba5d9c3c1a777b1419abe543f8dd09ed0bab2b5427ab",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        460,
+        677
+      ],
+      "dimensions": [
+        435,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 46682,
+      "sha256": "4017cd5c643f02c159484a10fcb6298d7aad0b64bb59d0ea45f7faacdb4d1226"
+    },
+    {
+      "name": "Xijie Xiang",
+      "role": "Research Fellow",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72v2t9BQi6jPV9-vzqd1M6udWmOqDeAZCTpSHLG7D9iOCLhxpSe0ufqsteLEDXJa0ulOn6FitCUyRSKjeWpvpMaUGoZOXzO-XBLl4BvL4N7wOYTjes-w-Iwmfl524qpEFswRdEbu8Cieqe1ZkbUe0QNT2pJqJgxt2Lcak37RqanayZ1yyT7XySDkroHg7OTrnfpHpRyKOaXo3BkIFpMISm3Ej7stkIT2pIMCQrin-Ww=w1280",
+      "path": "people/xijie-xiang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        440,
+        649
+      ],
+      "source_capture_sha256": "aa39e86f685a9be7a4daae3694877153d5ac876637d43c4090fe8ec0fd070e13",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        440,
+        649
+      ],
+      "dimensions": [
+        434,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 40011,
+      "sha256": "e20a1b9dbffc5c293274a5cd0b33d6e4f64de203e3d7c23db82af9fe9bb21b56"
+    },
+    {
+      "name": "Yajing Zheng",
+      "role": "Research Fellow",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72tdcZkbpK8qx8AjOlguEsk7WTTHx01cLoQX6YjpXBcMIMU6mbePiVNmEOXK7WDe6eIy9etwApctXe4FI-YSkHfNnvOlM3PKtQkCoW29ln9sLDd2M46l7yul_NGVPELEYP6s-R_rv3Ca9AIK8LvHiM65vAV7WltOKzrGSSbWfKOkKCJf24mcqqHiFEd9scnB0bmr30f93Yb6NbrAs9XTEkvV2Hs356sxlXEAe2lajzw=w1280",
+      "path": "people/yajing-zheng.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        521,
+        768
+      ],
+      "source_capture_sha256": "d50b0ef7150f8d8761e88d6d89ce13dd77d57ce69d0910d61fc0c38d7c3512b8",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        488,
+        720
+      ],
+      "dimensions": [
+        434,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 32465,
+      "sha256": "5c3e27e64135c73703cf490661a4a30fb0f0ad4c10db9ca866c023a28ab9c5ba"
+    },
+    {
+      "name": "Lana Whitmarsh",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72sUJaJNYLbELPKgnKMUb7LkTj8UIXvLVWQfVA1_jwkYLWeSjPej89GoAITJjM6VTxumzxt5jmQdPH_A4UpmPiCFwt9yky78jONwP0KGeBW6e71n-wkFDfdejmge6V1DDACwWKWPRDcQCPGjrMJm2A8CaxpmdP2lOaZ6-vxPKYYfF203M-6w2yjNGK7bt2vf9dKx8hPye9A2qxf0Ol7FqhhHAYbRkektB0E2azuZ=w1280",
+      "path": null,
+      "status": "placeholder",
+      "source_natural_dimensions": [
+        677,
+        995
+      ],
+      "source_capture_sha256": "92d0f78aff5f102e83603aa9b73725bc48bdc0f7ea5ebd518f57ffe43978d289",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        489,
+        720
+      ],
+      "dimensions": [
+        435,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "note": "Source uses a teddy-bear placeholder rather than a person portrait. Omitted; render initials fallback."
+    },
+    {
+      "name": "Congrui Yang",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72uhXRMVpF4Tk7axasujqU_oC88rgtAUSSHXboFF5DZ67Xu-U-55b_X95j9DzYpmlrTY43AlkNe5-H6zSQGx_jxMFheTKnW6GwvFKIHtnc53RoBN_7lAtLtZUBG5oxNwon7I4J-Jg4kNkF3tApsVgOtezKBYcvAhAxR86hPd985PhrnR2PrihlxfwQ1TJVXu0oadw8hP5q9Oy7WPBN0idAe4XOGDNNgoj05BxwaDLFo=w1280",
+      "path": "people/congrui-yang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        327,
+        481
+      ],
+      "source_capture_sha256": "81e416ed9521046648cdd57aaec59c6885b3e5376b68923b00a866af86aee97e",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        327,
+        481
+      ],
+      "dimensions": [
+        327,
+        481
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 21808,
+      "sha256": "490231be8e68f70eb18ffbf904a7bd4881ea56a4c465976290b87a373787dc02"
+    },
+    {
+      "name": "Tao Shan",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72sFT8f49BEanPWQDyJGVLEbyP2PvmWQFUOR7RDpsrO6UX4K3VPgE0_VyO6NPyKxQu1cEHJ7qGm7nZsyG9Evn-xl-92FU7zNaP7jD_azmtlNC38o1JMjH09BXGCCzQjkdu8ErbRNE9nTu_1PvLkaCBCjb7yWHtMhI2Hxmvkret1bMpfgb2uVTihpJUCsAbyB73LHXgLPRqox9WV2OGdGGXZHIw3Hl8NPHRdmfe9s=w1280",
+      "path": "people/tao-shan.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        988,
+        1443
+      ],
+      "source_capture_sha256": "9e0295775e2d2d486a9849a011396805d1ad0166a1c0ca7b4609fb71ac2c4c14",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        492,
+        720
+      ],
+      "dimensions": [
+        437,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 41248,
+      "sha256": "6987cf985a713622b5bbfdf07fe9b97822af49b4b99646b90fddf59aeb03d67b"
+    },
+    {
+      "name": "Ling Liu",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72vSitNy2RzbVyblcS9BBXfF_lV723qcAjKxRTNuigJlTCjLe95QTy8kUI1LF274c6PDU9bFZgVnafPJVRmuA0N0yBAx_HYVJnRZ-4JyFXNtKZdA8fK7YNgmYRJiYGp62APiywg2GwGsM2pG4BLYB2AV9C__NiTWmROoaEgkWkE9Q7IQajbzZjKtImwAJ3oVP7-7tABe0SLO9slpAsvWnkFPY6grlzntgbbYik7wRBI=w1280",
+      "path": "people/ling-liu.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        907,
+        1325
+      ],
+      "source_capture_sha256": "29d6677d19f1e7496bfe0e371620372dc3f1121d681ec4ad94d7a2d891f46694",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        492,
+        720
+      ],
+      "dimensions": [
+        437,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 39647,
+      "sha256": "eb50d84d1a8b4274c17df4a22c161ac426cb941f313e20bf36bcbb43b084354d"
+    },
+    {
+      "name": "Huifeng Zhang",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72vJfyWSOfx2X7Nk758isLLcUSW11RlJors0cwQHq2rZAtknHO2PXzzrp10kuP8TpxHeizpr7JZ9UXMvoeMYsyi5_64FERXPmnJnHKMph9u3lpPqoQgmzASwaAAJScTh_hA9vJX-ydv3zPz_MXYvplZFooxPz5LRjbwpWAzUppF5u88JrMTTmerRqq2PN4vaNgWPH2d-wF3_ubVrPXAZgyQJx7Jhhz_h3PMvDLERKsY=w1280",
+      "path": "people/huifeng-zhang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        199,
+        290
+      ],
+      "source_capture_sha256": "751c2981629294a255f7cceb2413bbe31d8d34c5dfa2b6f598f0dcdbc90dfb27",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        199,
+        290
+      ],
+      "dimensions": [
+        199,
+        290
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 12478,
+      "sha256": "de627c4e2f2e40808663d94511ba91a805d7a1fea400ca7b9328de0e8525494b"
+    },
+    {
+      "name": "Haodong Ru",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72sNULVwsjJmcoIxbnYa6EwrEFu_zOapFsF--hT3_nAeAQVTx45Svg_rWIHZc30TYyatv9GR5ENkbdCkf9AWfMwmhUQkWUDjomZ0MVjYQd7blrQPmBxh2tOpJIrw09WJEDVi8F18Jq3DO-kR2yRoZkO2bUgmAg2Wk7uHWshytG_Q7r27lbaac3RWTAefWXnhGJQBXPct9RsLFlxppZRE5HKSZ1GEBmZX3rYbTlJZ=w1280",
+      "path": "people/haodong-ru.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        830,
+        1218
+      ],
+      "source_capture_sha256": "1e967537c59f53442efeeb0e92d0f49c908019ace4b0e882d4cb9681434ea888",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        490,
+        720
+      ],
+      "dimensions": [
+        436,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 49329,
+      "sha256": "d4fbaa6d559a331ef7ef479aa5e1beaa803431e38a416080cfcdbe966a4243a6"
+    },
+    {
+      "name": "Shixiao Wang",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72t0dYA43EZAmM95VdRBBbCVWKPTAzy-1qgXoP9qf-0HMO1hALLaWGnZHT_AUt5GQQktRJP2vG1ZK_16vvvrOE1IngeAJyX2DGuBPVpwt_72GfLPmSmsYv5NJjPBD1pdc9xd_q4ZGQyUx3hGnHSSzPoevMnVTpll9Pbh7rtbu7GKynDXA0ND8AiUa9uhGZjoSVGpEiuA8WVQJxYyfucz8eUIsGAIqEGOwbEF2g=w1280",
+      "path": "people/shixiao-wang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        272,
+        400
+      ],
+      "source_capture_sha256": "279561fd4e79a852961a9c4a939dd3aeacacc514cff5dbacd08e0c75b42f79c4",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        272,
+        400
+      ],
+      "dimensions": [
+        272,
+        400
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 11579,
+      "sha256": "86725b532e3074a22f7ff82c6161be4cd98da21a291dcb5a9f0c9ed36a56b44b"
+    },
+    {
+      "name": "Rongqi Hong",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72uAHeadrBQ-1d0H_E2K9kK2zK4OQcPVb3eKXGcCDuQGhhUzUKL1JnBAUxX8JsBbkJPwVd25SwXGRok2GMgogvIv5J4y7nQRf8yz3V8DPzQs7qiHJ_khlUOFqFYUJuLn2Auvr839WW43ApU6OlFkRbr7Q2pO_yQZtJvwPVTL6N1sxE1avWn_pS3TohRwaYC2ULFhdKn34xfi1yh1rNo2Z4gUBoXaggN4gfQsuSUu=w1280",
+      "path": "people/rongqi-hong.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        1076,
+        1588
+      ],
+      "source_capture_sha256": "cf35951346c20ddd31ce11bc14dcb05df3a9e86192692f2ccebbb8469268cf82",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        487,
+        720
+      ],
+      "dimensions": [
+        433,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 30848,
+      "sha256": "f001af83da15daa9f5d53633ab7134c892c37d35fa05d1119b65c9d692ce610e"
+    },
+    {
+      "name": "Shuo Zhang",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72vlWSgUpcJYVc3JXWvQ8GpyraDbhKfqbWFrVkzspL6zvq2Xr988WRdPH-kJ71tqGDuG2UuB7FoVAM4HOPWDJ4HAnrdkkKKN6cy91f0kvkG5A22IlXjUMaXu8ee3lhfQXrbJgfsFdM3cD-3ZgJlHDmAL8Cbu5qfRuiWWEuwfCLMHy35Qfi-tqsNRQH3kbcW2UHHF1V68Lo1oVoR0by_IIPlGhshiuLKHZNI6hLg06eY=w1280",
+      "path": "people/shuo-zhang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        424,
+        626
+      ],
+      "source_capture_sha256": "bcad2ca1e7e920262142927928fd7c32c019abedd41ebe995c0e737a67f2ce94",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        424,
+        626
+      ],
+      "dimensions": [
+        424,
+        626
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 39287,
+      "sha256": "79a0b5bf14e245ba34012aa72c11c4f0c23548bb50e5148a69216e89e5fa30e5"
+    },
+    {
+      "name": "Julia Yin",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72uh1cDs1DU46926NKf5UVjbWguQLqx_0kdxNBn4T1mp_uXd-fk5Lf2WrpuAStODniNPSEXo8GZL9wY_II_wRgZIOT5LNgXzkZ5_pyY8PW0xXFJunOjHMw607tg1Zm-U-5YgbB_3HM1jeybCCE2QsICy_RYOHAhAE83ZvZ9M__MAEWQG6OtzcZ5Ra-MbqkI5spUzxI56NNfrAw8sdQ4kOlygEI8cb_e7gjVZDw=w1280",
+      "path": "people/julia-yin.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        325,
+        480
+      ],
+      "source_capture_sha256": "146615ac496f526faf05d1da912be164332940d589f0516212b40fcea6e9352c",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        325,
+        480
+      ],
+      "dimensions": [
+        325,
+        480
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 22929,
+      "sha256": "943559eb59917980e760a015311dbc8f502b99e61b1169b62e5dcfa06a1dbd80"
+    },
+    {
+      "name": "Jing Peng",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72tZYgHLcwL--9gz69Omqp2TZigwr3q7j7rTeKe3CEBi2JNFZZxdWyyP9VGpnVYgXaREIEtY1XH5ERYMeeB5rV7DhIgO_zHKavqykDjFEjSEoChBdmvpktWUofQKjA0cOjcHAiMpoxzXTwUIfi5ASBChG14r7D1-ruUIMex8b6M8wYNPh28wZdzbgx9dtoDbd7CMrYl-L_RXMhtzwZaFeWKQRZbgpyyldfg5NU-p=w1280",
+      "path": "people/jing-peng.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        595,
+        800
+      ],
+      "source_capture_sha256": "a72341ab27a72c8e8836f448d95715244c682dcebed15442a6f4679aa9ba6377",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        535,
+        720
+      ],
+      "dimensions": [
+        476,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 33011,
+      "sha256": "37c2854af9917eeeb3fdd983f0b96aa8b0441065c5a1d501717dd9218cee813b"
+    },
+    {
+      "name": "Rining Wu",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72uQIECV_xNABjzPggz3WPtE-TCgpz2Q6oDednP80SkoqWOYbgJ7XwK9-CFN59TdEZ-oY-cvNu6RV2ga0rX2qJFiYwYDudpl_uNEB_2d5LY0eL9x1VhCnZ__lP-4pCDoyHBHGzayEq8OV-pfow-WM5IZu-Bt0N-_L4ftVJtF5-NdmGsm2C8tY0URwGCl6NxQYjBlU94TZyIY9kWgGB9O8Zj8PL7DrsAyVoX8Tsph=w1280",
+      "path": "people/rining-wu.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        597,
+        800
+      ],
+      "source_capture_sha256": "8b76edbae2c06ee51a01d0dbfe8543adbfa024184a234f5a04b006cdae09640b",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        537,
+        720
+      ],
+      "dimensions": [
+        477,
+        640
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 33680,
+      "sha256": "38c2d6529bf5f23e31d829e15d90e824e590ee3b4cb8fe1d902ca53a68043f16"
+    },
+    {
+      "name": "Zerui Yang",
+      "role": "PhD student",
+      "source_page": "https://sites.google.com/site/jiankliu/people",
+      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72ud1aGnPJ2nMZcHAJE5ntP8HPklVIdjfnbFHQ7Jkq-zyHnDOr20egQUhLRzmQLtz8mJz4tyjG-ByJrdtmp4cETmICA7gHzhocYwV2klqP4S3c9kjFlP-mp_TQ1F_XjybRQEjOqG8LIpbxFj6-j2mlO86k3WQwtkL8I34qClh-4Tl1E-kbbgO9TseavehcEaOvQ1qcu-VmUNp_sWT1Tq1wE_s2SEqegs1lxppDzLc0Y=w1280",
+      "path": "people/zerui-yang.jpg",
+      "status": "ok",
+      "source_natural_dimensions": [
+        422,
+        565
+      ],
+      "source_capture_sha256": "86bfbde8c84b8885e38276abb539e9022e142c76a93b85545fbe0cc502832396",
+      "capture_dimensions": [
+        1280,
+        720
+      ],
+      "image_capture_box": [
+        0,
+        0,
+        422,
+        565
+      ],
+      "dimensions": [
+        422,
+        565
+      ],
+      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
+      "bytes": 20035,
+      "sha256": "68556c2b001687d3a9c53545f2c5bd43ca98f4942556d0199e433bb458548737"
+    }
+  ]
+}
