@@ -35,7 +35,7 @@ List only papers that have a code link. The complete bibliography is linked thro
 
 Keep the primary Read paper link. Separate Preprint, Institutional record, Published version, PDF and full-text controls are omitted.
 
-The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site; the former Google Sites archive is no longer required. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The former Striking Image page had also been repurposed, so its link now opens the matching paper's Figure 1. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
+The Google Scholar and ResearchGate profile buttons use the verified Jian K. Liu profiles recorded in `publications.json`. Resources for the listed publications are linked directly from this site; the former Google Sites archive is no longer required. During migration, three source links labelled PDF were found to point to different papers; the manifest records these errors and the corrected targets. The obsolete Göttingen press link is replaced by its institutional Gö-VIP summary.
 
 ## Publishing
 
