@@ -170,12 +170,6 @@
       ],
       "resources": [
         {
-          "label": "PDF",
-          "url": "https://research.birmingham.ac.uk/files/290505732/DAGML-Zhang-2026.pdf",
-          "source_url": "https://research.birmingham.ac.uk/files/290505732/DAGML-Zhang-2026.pdf",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/DAGML",
           "source_url": "https://github.com/jiankliu/DAGML",
@@ -241,12 +235,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://www.nature.com/articles/s41467-025-66226-5",
-          "source_url": "https://www.nature.com/articles/s41467-025-66226-5",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/ydtang/Seizure-model",
           "source_url": "https://github.com/ydtang/Seizure-model",
@@ -275,12 +263,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Full text",
-          "url": "https://www.nature.com/articles/s41467-025-65197-x",
-          "source_url": "https://www.nature.com/articles/s41467-025-65197-x",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/DingJianhao/SNNEnhancingRobustness",
@@ -339,13 +321,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "PDF",
-          "url": "https://pure-oai.bham.ac.uk/ws/portalfiles/portal/266927851/Huang_TNNLS2025.pdf",
-          "source_url": "https://www.researchgate.net/publication/390406380_Assisting_Training_of_Deep_Spiking_Neural_Networks_With_Parameter_Initialization",
-          "source_label": "[PDF]",
-          "note": "Replaced an unrelated source PDF with the University of Birmingham accepted manuscript, verified by paper title, authors and DOI on its first page."
-        },
         {
           "label": "Code",
           "url": "https://github.com/hzp2022/ANN2SNN_NQ",
@@ -411,12 +386,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/386593089_Spiking_Variational_Policy_Gradient_for_Brain_Inspired_Reinforcement_Learning",
-          "source_url": "https://www.researchgate.net/publication/386593089_Spiking_Variational_Policy_Gradient_for_Brain_Inspired_Reinforcement_Learning",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/yzlc080733/SVPG2023",
@@ -515,12 +484,6 @@
       ],
       "resources": [
         {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/371042315_HeGCL_Advance_Self-Supervised_Learning_in_Heterogeneous_Graph-Level_Representation",
-          "source_url": "https://www.researchgate.net/publication/371042315_HeGCL_Advance_Self-Supervised_Learning_in_Heterogeneous_Graph-Level_Representation",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/shigen97/HeGCL",
           "source_url": "https://github.com/shigen97/HeGCL",
@@ -550,12 +513,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012297",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012297",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/beizai/Decoding",
           "source_url": "https://github.com/beizai/Decoding",
@@ -584,13 +541,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/380161330_High-performance_deep_spiking_neural_networks_via_at-most-two-spike_exponential_coding",
-          "source_url": "https://www.nature.com/articles/s42003-024-06162-0",
-          "source_label": "[PDF]",
-          "note": "Replaced the unrelated Nature link with the matching paper on ResearchGate."
-        },
         {
           "label": "Code",
           "url": "https://github.com/RPDS2020/AEC",
@@ -628,12 +578,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00788-8",
-          "source_url": "https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00788-8",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/HybridGCN",
           "source_url": "https://github.com/jiankliu/HybridGCN",
@@ -662,12 +606,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/Dendritic-NMDA",
@@ -753,12 +691,6 @@
       ],
       "resources": [
         {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/364689426_Biologically_Plausible_Variational_Policy_Gradient_with_Spiking_Recurrent_Winner-Take-All_Networks",
-          "source_url": "https://www.researchgate.net/publication/364689426_Biologically_Plausible_Variational_Policy_Gradient_with_Spiking_Recurrent_Winner-Take-All_Networks",
-          "source_label": " [PDF]"
-        },
-        {
           "label": "Poster",
           "url": "https://bmvc2022.mpi-inf.mpg.de/0358_poster.pdf",
           "source_url": "https://bmvc2022.mpi-inf.mpg.de/0358_poster.pdf",
@@ -814,12 +746,6 @@
       ],
       "resources": [
         {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/348257915_Neural_System_Identification_With_Spike-Triggered_Non-Negative_Matrix_Factorization",
-          "source_url": "https://www.researchgate.net/publication/348257915_Neural_System_Identification_With_Spike-Triggered_Non-Negative_Matrix_Factorization",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code for STNMF",
           "url": "https://github.com/jiankliu/STNMFanalysis",
           "source_url": "https://github.com/jiankliu/STNMFanalysis",
@@ -861,12 +787,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009925",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009925",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Data",
           "url": "https://doi.org/10.12751/g-node.kod28e",
           "source_url": "https://doi.org/10.12751/g-node.kod28e",
@@ -899,12 +819,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/339838776_Revealing_Fine_Structures_of_the_Retinal_Receptive_Field_by_Deep-Learning_Networks",
-          "source_url": "https://www.researchgate.net/publication/339838776_Revealing_Fine_Structures_of_the_Retinal_Receptive_Field_by_Deep-Learning_Networks",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/CNN-for-Retinal-Receptive-Field",
@@ -941,12 +855,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://linkinghub.elsevier.com/retrieve/pii/S266638992100307X",
-          "source_url": "https://linkinghub.elsevier.com/retrieve/pii/S266638992100307X",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiashsh/WCMI_project",
           "source_url": "https://github.com/jiashsh/WCMI_project",
@@ -975,12 +883,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009640",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009640",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/STNMF-SNN",
@@ -1011,12 +913,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900205-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921002051%3Fshowall%3Dtrue",
-          "source_url": "https://www.cell.com/patterns/fulltext/S2666-3899%2821%2900205-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921002051%3Fshowall%3Dtrue",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/Zyj061/retina-crnn_model",
           "source_url": "https://github.com/Zyj061/retina-crnn_model",
@@ -1046,12 +942,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009163",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009163",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/GC-CoC-Network",
           "source_url": "https://github.com/jiankliu/GC-CoC-Network",
@@ -1080,12 +970,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008670",
-          "source_url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008670",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/Purkinje-Cell-Network",
@@ -1119,12 +1003,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/339127649_Reconstruction_of_natural_visual_scenes_from_neural_spikes_with_deep_neural_networks",
-          "source_url": "https://www.researchgate.net/publication/339127649_Reconstruction_of_natural_visual_scenes_from_neural_spikes_with_deep_neural_networks",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/jiankliu/Spike-Image-Decoder",
@@ -1172,12 +1050,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "Full text",
-          "url": "https://www.nature.com/articles/s41467-017-00156-9",
-          "source_url": "https://www.nature.com/articles/s41467-017-00156-9",
-          "source_label": "[PDF]"
-        },
         {
           "label": "Code",
           "url": "https://github.com/gollischlab/STNMFanalysis",
@@ -1232,12 +1104,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189",
-          "source_url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005189",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://homepages.inf.ed.ac.uk/aonken/code/",
           "source_url": "https://homepages.inf.ed.ac.uk/aonken/code/",
@@ -1273,12 +1139,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://elifesciences.org/content/5/e15872",
-          "source_url": "https://elifesciences.org/content/5/e15872",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Code",
           "url": "https://github.com/jiankliu/Granular-Layer-Network",
           "source_url": "https://github.com/jiankliu/Granular-Layer-Network",
@@ -1308,12 +1168,6 @@
       ],
       "resources": [
         {
-          "label": "Full text",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425",
-          "source_url": "http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004425",
-          "source_label": "[PDF]"
-        },
-        {
           "label": "Data",
           "url": "https://doi.org/10.5061/dryad.7r7n7",
           "source_url": "http://datadryad.org/resource/doi:10.5061/dryad.7r7n7",
@@ -1342,12 +1196,6 @@
         }
       ],
       "resources": [
-        {
-          "label": "ResearchGate full text",
-          "url": "https://www.researchgate.net/publication/38027580_Embedding_Multiple_Trajectories_in_Simulated_Recurrent_Neural_Networks_in_a_Self-Organizing_Manner",
-          "source_url": "https://www.researchgate.net/publication/38027580_Embedding_Multiple_Trajectories_in_Simulated_Recurrent_Neural_Networks_in_a_Self-Organizing_Manner",
-          "source_label": "PDF"
-        },
         {
           "label": "Supplementary movie",
           "url": "https://www.jneurosci.org/content/29/42/13172/tab-figures-data",
