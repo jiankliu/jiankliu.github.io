@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 46 46"><rect width="46" height="46" rx="23" fill="#123d36"/><g fill="none" stroke="#f5f4ee" stroke-width="1.15"><path d="m12 31 9-8-7-10m7 10 11-9m-11 9 12 10M14 13l18 1 1 19-21-2Z"/><path d="m12 31 20-17M14 13l19 20" opacity=".4"/></g><g fill="#dfbb83"><circle cx="14" cy="13" r="2.6"/><circle cx="32" cy="14" r="2.6"/><circle cx="21" cy="23" r="3.4"/><circle cx="12" cy="31" r="2.6"/><circle cx="33" cy="33" r="2.6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+<title id="title">Learning Loop — Neural Computation Laboratory symbol</title>
+<circle cx="32" cy="32" r="30" fill="#123D36"/>
+<g fill="none" stroke="#F5F4EE" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M32 15C39 15 49 32 48 41C47 49 17 49 16 41C15 32 25 15 32 15Z"/>
+<path d="M16 41C24 39 28 29 32 15M32 15C34 28 40 34 48 41"/>
+</g>
+<g fill="#B2771B" stroke="#F5F4EE" stroke-width="1">
+<circle cx="32" cy="15" r="4.1"/><circle cx="16" cy="41" r="4.1"/><circle cx="48" cy="41" r="4.1"/>
+</g>
+</svg>
