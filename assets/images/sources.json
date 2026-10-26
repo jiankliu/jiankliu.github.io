@@ -1,8 +1,8 @@
 {
   "retrieved_date": "2026-10-25",
   "source_page": "https://sites.google.com/site/jiankliu/people",
-  "identity_mapping": "Photo and name occur in the same single-image DOM container on the source People page.",
-  "processing": "Images captured from original source image URLs through the browser. Viewer margins removed using measured DOM rectangles; no subject crop; max 640px longest edge; JPEG quality 87; no EXIF.",
+  "identity_mapping": "Original portraits were matched to named source-page cards. User-supplied replacements are identified explicitly in each portrait record.",
+  "processing": "Original source portraits use the recorded capture and resize process. User-supplied replacements retain the supplied image and use a documented CSS crop where recorded.",
   "portraits": [
     {
       "name": "Jian K. Liu",
@@ -95,34 +95,31 @@
       "sha256": "e20a1b9dbffc5c293274a5cd0b33d6e4f64de203e3d7c23db82af9fe9bb21b56"
     },
     {
-      "name": "Yajing Zheng",
+      "name": "Jiaqiang Jiang",
       "role": "Research Fellow",
-      "source_page": "https://sites.google.com/site/jiankliu/people",
-      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72tdcZkbpK8qx8AjOlguEsk7WTTHx01cLoQX6YjpXBcMIMU6mbePiVNmEOXK7WDe6eIy9etwApctXe4FI-YSkHfNnvOlM3PKtQkCoW29ln9sLDd2M46l7yul_NGVPELEYP6s-R_rv3Ca9AIK8LvHiM65vAV7WltOKzrGSSbWfKOkKCJf24mcqqHiFEd9scnB0bmr30f93Yb6NbrAs9XTEkvV2Hs356sxlXEAe2lajzw=w1280",
-      "path": "people/yajing-zheng.jpg",
+      "source_url": "user-supplied:jiaqiang-zhang.jpg",
+      "source_type": "user_attachment",
+      "updated_on": "2026-10-26",
+      "identity_evidence": "The user explicitly requested Jiaqiang Jiang and supplied this photo. The requested surname Jiang takes precedence over the attachment filename.",
+      "path": "people/jiaqiang-jiang.jpg",
       "status": "ok",
       "source_natural_dimensions": [
-        521,
-        768
-      ],
-      "source_capture_sha256": "d50b0ef7150f8d8761e88d6d89ce13dd77d57ce69d0910d61fc0c38d7c3512b8",
-      "capture_dimensions": [
-        1280,
-        720
-      ],
-      "image_capture_box": [
-        0,
-        0,
-        488,
-        720
+        3420,
+        1924
       ],
       "dimensions": [
-        434,
-        640
+        3420,
+        1924
       ],
-      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
-      "bytes": 32465,
-      "sha256": "5c3e27e64135c73703cf490661a4a30fb0f0ad4c10db9ca866c023a28ab9c5ba"
+      "crop_box": [
+        1620,
+        890,
+        2120,
+        1515
+      ],
+      "processing": "Original photo retained without pixel edits. CSS displays the 500 by 625 pixel head-and-shoulders region [left=1620, top=890, right=2120, bottom=1515] in the 4:5 portrait frame.",
+      "bytes": 460330,
+      "sha256": "d2b4cb36fa7075322aa3c3e3576c3006e058d02384558db0bc53ad8d89cea922"
     },
     {
       "name": "Lana Whitmarsh",
