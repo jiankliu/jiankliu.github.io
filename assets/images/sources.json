@@ -112,12 +112,12 @@
         1924
       ],
       "crop_box": [
-        1620,
-        890,
-        2120,
-        1515
+        1678,
+        904,
+        2062,
+        1384
       ],
-      "processing": "Original photo retained without pixel edits. CSS displays the 500 by 625 pixel head-and-shoulders region [left=1620, top=890, right=2120, bottom=1515] in the 4:5 portrait frame.",
+      "processing": "Original photo retained without pixel edits. CSS displays the user-approved 384 by 480 pixel head-and-shoulders region [left=1678, top=904, right=2062, bottom=1384] in the 4:5 portrait frame, approximately 30% closer than the initial crop.",
       "bytes": 460330,
       "sha256": "d2b4cb36fa7075322aa3c3e3576c3006e058d02384558db0bc53ad8d89cea922"
     },
