@@ -124,31 +124,23 @@
     {
       "name": "Lana Whitmarsh",
       "role": "PhD student",
-      "source_page": "https://sites.google.com/site/jiankliu/people",
-      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72sUJaJNYLbELPKgnKMUb7LkTj8UIXvLVWQfVA1_jwkYLWeSjPej89GoAITJjM6VTxumzxt5jmQdPH_A4UpmPiCFwt9yky78jONwP0KGeBW6e71n-wkFDfdejmge6V1DDACwWKWPRDcQCPGjrMJm2A8CaxpmdP2lOaZ6-vxPKYYfF203M-6w2yjNGK7bt2vf9dKx8hPye9A2qxf0Ol7FqhhHAYbRkektB0E2azuZ=w1280",
-      "path": null,
-      "status": "placeholder",
+      "source_url": "user-supplied:Lana Whitmarsh.png",
+      "source_type": "user_attachment",
+      "updated_on": "2026-11-04",
+      "identity_evidence": "The user identified the supplied portrait as Lana Whitmarsh and requested its publication on her People page entry.",
+      "path": "people/lana-whitmarsh.png",
+      "status": "ok",
       "source_natural_dimensions": [
-        677,
-        995
-      ],
-      "source_capture_sha256": "92d0f78aff5f102e83603aa9b73725bc48bdc0f7ea5ebd518f57ffe43978d289",
-      "capture_dimensions": [
-        1280,
-        720
-      ],
-      "image_capture_box": [
-        0,
-        0,
-        489,
-        720
+        315,
+        400
       ],
       "dimensions": [
-        435,
-        640
+        315,
+        400
       ],
-      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
-      "note": "Source uses a teddy-bear placeholder rather than a person portrait. Omitted; render initials fallback."
+      "processing": "Original supplied PNG retained without pixel edits; displayed using the existing 4:5 portrait frame.",
+      "bytes": 136662,
+      "sha256": "51009ac8321a9476eb5400532507bf3686f5f076c539444248e0537713ef66b5"
     },
     {
       "name": "Congrui Yang",
