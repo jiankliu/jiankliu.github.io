@@ -471,36 +471,6 @@
       "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
       "bytes": 33680,
       "sha256": "38c2d6529bf5f23e31d829e15d90e824e590ee3b4cb8fe1d902ca53a68043f16"
-    },
-    {
-      "name": "Zerui Yang",
-      "role": "PhD student",
-      "source_page": "https://sites.google.com/site/jiankliu/people",
-      "original_url": "https://sites.google.com/sitesv-images-rt/AMxu72ud1aGnPJ2nMZcHAJE5ntP8HPklVIdjfnbFHQ7Jkq-zyHnDOr20egQUhLRzmQLtz8mJz4tyjG-ByJrdtmp4cETmICA7gHzhocYwV2klqP4S3c9kjFlP-mp_TQ1F_XjybRQEjOqG8LIpbxFj6-j2mlO86k3WQwtkL8I34qClh-4Tl1E-kbbgO9TseavehcEaOvQ1qcu-VmUNp_sWT1Tq1wE_s2SEqegs1lxppDzLc0Y=w1280",
-      "path": "people/zerui-yang.jpg",
-      "status": "ok",
-      "source_natural_dimensions": [
-        422,
-        565
-      ],
-      "source_capture_sha256": "86bfbde8c84b8885e38276abb539e9022e142c76a93b85545fbe0cc502832396",
-      "capture_dimensions": [
-        1280,
-        720
-      ],
-      "image_capture_box": [
-        0,
-        0,
-        422,
-        565
-      ],
-      "dimensions": [
-        422,
-        565
-      ],
-      "processing": "Cropped only image-viewer margins from the source image capture using the observed DOM image rectangle, then resized without subject crop or enhancement.",
-      "bytes": 20035,
-      "sha256": "68556c2b001687d3a9c53545f2c5bd43ca98f4942556d0199e433bb458548737"
     }
   ]
 }
