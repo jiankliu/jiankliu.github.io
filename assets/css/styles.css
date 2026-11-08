@@ -124,11 +124,14 @@ svg { max-width: 100%; }
 .highlight-grid, .highlights-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 1px; background: #3d5e51; border: 1px solid #3d5e51; }
 .highlight-card { background: var(--forest); padding: 31px 34px; min-height: 260px; display: flex; flex-direction: column; transition: background .2s; }
 .highlight-card:hover { background: #19473e; }
+.highlights-grid-featured > .highlight-card-featured { grid-row: span 2; }
+.highlight-card-image { display: block; width: 100%; height: auto; margin-bottom: 24px; border: 1px solid #3d5e51; }
 .highlight-top { display: flex; justify-content: space-between; align-items: center; gap: 20px; }
 .highlight-kicker { color: var(--gold); margin-bottom: 23px; }
 .highlight-number { font: italic 23px var(--serif); color: #89a195; }
 .highlight-card h3 { font: 400 29px/1.16 var(--serif); max-width: 390px; margin-bottom: 14px; }
 .highlight-card p { color: #c5d4cb; font-size: 13px; line-height: 1.75; max-width: 430px; }
+.highlight-card-featured h3, .highlight-card-featured p { max-width: none; }
 .highlight-links { display: flex; gap: 25px; margin-top: auto; padding-top: 13px; }
 .highlight-links a { color: var(--white); font-size: 11px; text-decoration: none; border-bottom: 1px solid #6c8a78; padding-bottom: 4px; }
 .highlight-links a:hover { color: var(--gold); }
@@ -293,6 +296,7 @@ svg { max-width: 100%; }
   h2 { font-size: 2.4rem; }
   .section-intro { font-size: 14px; }
   .research-grid, .highlight-grid, .highlights-grid { grid-template-columns: 1fr; }
+  .highlights-grid-featured > .highlight-card-featured { grid-row: auto; }
   .research-card { padding: 29px 25px; }
   .research-card .research-number, .research-card > .card-number { margin-bottom: 28px; }
   .research-card h3 { font-size: 29px; }
