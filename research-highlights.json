@@ -1,8 +1,35 @@
 {
   "source_url": "https://sites.google.com/site/jiankliu/research-highlights",
   "migrated_on": "2026-10-25",
-  "description": "Research highlights migrated from the original lab page, with the four existing homepage selections retained and the current GPCR highlight included. Original source text and figure provenance are recorded here.",
+  "description": "Research highlight archive migrated from the original lab page and extended with new laboratory projects. Original source text and figure provenance are recorded here.",
   "entries": [
+    {
+      "id": "brainbind",
+      "title": "BrainBind: bridging brain signals and video",
+      "short_title": "BrainBind (BMVC 2026)",
+      "category": "Multimodal neural decoding",
+      "year": "2026",
+      "summary": "BrainBind aligns synchronised EEG and fMRI with long-form video representations to study how complementary brain signals relate to dynamic visual scenes.",
+      "paragraphs": [
+        "Natural vision unfolds over time. EEG captures rapid changes in brain activity, while fMRI provides complementary spatial information. BrainBind maps recordings collected during the same long-form viewing into shared video-embedding spaces, allowing the two signals to be compared against a common visual reference.",
+        "Using the CineBrain dataset, the study evaluates EEG, fMRI and fusion approaches through brain–video retrieval. The results show that different recording combinations and video representations capture different aspects of retrieval performance, helping clarify how these complementary measurements relate to naturalistic visual experience."
+      ],
+      "image": {
+        "path": "assets/images/highlight-brainbind.png",
+        "alt": "BrainBind feature artwork with a brain, neural waveforms and film strips.",
+        "caption": "BrainBind links synchronised brain recordings with long-form naturalistic video representations. Feature illustration supplied for the lab website.",
+        "source_url": "user-supplied:brainbind-feature-figure.png",
+        "width": 1024,
+        "height": 572
+      },
+      "reference": "Wang, S., Wu, R. and Liu, J. K. BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations. British Machine Vision Conference (BMVC 2026).",
+      "paper": "https://arxiv.org/abs/2611.05581",
+      "code": "https://github.com/Forainest789/Brainbind",
+      "source_url": "https://arxiv.org/abs/2611.05581",
+      "source_status": "primary_paper_with_user_supplied_feature_illustration",
+      "added_on": "2026-11-08",
+      "source_text": "The arXiv record describes synchronised EEG and fMRI aligned with frozen long-form video embedding spaces, evaluated through retrieval on CineBrain. It confirms acceptance at BMVC 2026."
+    },
     {
       "id": "brain-to-robot",
       "title": "Brain-to-robot hand decoding",

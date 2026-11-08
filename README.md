@@ -38,13 +38,13 @@ When adding a person, preserve `data-filter-item`, `data-category` (`fellows` or
 
 ## Update publications
 
-List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. The four papers selected in homepage section 02 are also featured in section 05, in the same order.
+List only papers that have a code link. The complete bibliography is linked through Google Scholar. Add an eligible `publication-item` in `publications.html` in descending year order, following an existing item. Set `data-year`, `data-category` (the year, or `earlier` for 2023 and before) and `data-search-text`. Use the paper's verified DOI link. Put code, data, poster, video and supplementary links in its `publication-links` group, and record the same destinations in `publications.json`. The provenance manifest retains all source entries; `listing_policy: code_available` limits the rendered list to papers with a Code resource. The papers selected in homepage section 02 are also featured in section 05, in the same order.
 
 ## Update selected work
 
 The section 02 cards in `index.html` are the source of the homepage selection. Keep `data-highlight-paper` on each card’s Paper link and update that link when selecting a different paper. Section 05 follows those links automatically on page load, including their order, and retrieves full titles, years and author/venue details from `publications.html`. Add the new paper there with its citation when updating a card. No separate section 05 selection needs to be maintained.
 
-The generated HTML contains the current four citations so they remain readable without JavaScript. Refresh that fallback when changing the cards. If the publication page cannot be loaded, existing matching citations remain available; an unlisted paper uses its card title and Paper link until its full citation is added.
+The generated HTML contains the current selected citations so they remain readable without JavaScript. Refresh that fallback when changing the cards. If the publication page cannot be loaded, existing matching citations remain available; an unlisted paper uses its card title and Paper link until its full citation is added.
 
 ## Update news
 
