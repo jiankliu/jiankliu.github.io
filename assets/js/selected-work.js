@@ -1,4 +1,4 @@
-/* Section 02's Paper links determine the selection and order in section 05. */
+/* The first two research highlights drive homepage cards and recent work. */
 (() => {
   'use strict';
 
@@ -8,6 +8,16 @@
 
   const catalog = new Map();
   const text = (element) => element?.textContent.trim() || '';
+
+  function webUrl(href, base = document.baseURI) {
+    if (!href) return null;
+    try {
+      const url = new URL(href, base);
+      return ['http:', 'https:'].includes(url.protocol) ? url : null;
+    } catch {
+      return null;
+    }
+  }
 
   function paperKey(href) {
     try {
@@ -37,6 +47,110 @@
         });
       }
     }
+  }
+
+  function actionLink(href, label, external, accessibleLabel) {
+    const link = document.createElement('a');
+    link.href = href;
+    if (external) {
+      link.target = '_blank';
+      link.rel = 'noopener noreferrer';
+    }
+    if (accessibleLabel) link.setAttribute('aria-label', accessibleLabel);
+    link.append(`${label} `);
+    const arrow = document.createElement('span');
+    arrow.setAttribute('aria-hidden', 'true');
+    arrow.textContent = external ? '↗' : '→';
+    link.append(arrow);
+    return link;
+  }
+
+  function renderHighlights(root, source) {
+    const records = [...root.querySelectorAll('.research-highlight')].slice(0, 2)
+      .map((section) => {
+        const links = [...section.querySelectorAll('.highlight-reference a')];
+        const paper = section.querySelector('[data-highlight-paper]')
+          || links.find((link) => /^paper\b/i.test(text(link)));
+        const code = section.querySelector('[data-highlight-code]')
+          || links.find((link) => /^code\b/i.test(text(link)));
+        const paperUrl = webUrl(paper?.getAttribute('href'), source);
+        const codeUrl = webUrl(code?.getAttribute('href'), source);
+        const title = text(section.querySelector('h2'));
+        if (!section.id || !paperUrl || !title) return null;
+        const detailUrl = new URL(source);
+        detailUrl.hash = section.id;
+        const image = section.querySelector('.highlight-figure img');
+        const imageUrl = webUrl(image?.getAttribute('src'), source);
+        const label = text(section.querySelector('.section-label')).split('/');
+        const year = section.dataset.highlightYear || label.at(-1)?.trim() || '';
+        const key = paperKey(paperUrl.href);
+        if (!catalog.has(key)) catalog.set(key, { title, year, meta: '' });
+        return {
+          id: section.id,
+          title: section.dataset.homeTitle || title,
+          kicker: section.dataset.homeKicker || label.slice(1, -1).join('/').trim(),
+          summary: text(section.querySelector('.highlight-detail-lead')),
+          paperUrl, codeUrl, detailUrl,
+          image: image && imageUrl ? {
+            url: imageUrl,
+            alt: image.getAttribute('alt') || '',
+            width: image.getAttribute('width'),
+            height: image.getAttribute('height'),
+          } : null,
+        };
+      }).filter(Boolean);
+    if (!records.length) return; // Retain the generated selection on a bad response.
+
+    const items = document.createDocumentFragment();
+    records.forEach((record, index) => {
+      const card = document.createElement('article');
+      card.className = `highlight-card${record.image ? ' highlight-card-featured' : ''}`;
+      card.dataset.highlightId = record.id;
+      const top = document.createElement('div');
+      top.className = 'highlight-top';
+      const kicker = document.createElement('span');
+      kicker.className = 'highlight-kicker';
+      kicker.textContent = record.kicker;
+      const number = document.createElement('span');
+      number.className = 'highlight-index';
+      number.setAttribute('aria-hidden', 'true');
+      number.textContent = String(index + 1).padStart(2, '0');
+      top.append(kicker, number);
+      card.append(top);
+      if (record.image) {
+        const image = document.createElement('img');
+        image.className = 'highlight-card-image';
+        image.src = record.image.url.href;
+        image.alt = record.image.alt;
+        for (const dimension of ['width', 'height']) {
+          if (/^[1-9]\d*$/.test(record.image[dimension] || '')) {
+            image.setAttribute(dimension, record.image[dimension]);
+          }
+        }
+        image.loading = 'lazy';
+        image.decoding = 'async';
+        card.append(image);
+      }
+      const heading = document.createElement('h3');
+      const headingLink = document.createElement('a');
+      headingLink.href = record.detailUrl.href;
+      headingLink.textContent = record.title;
+      heading.append(headingLink);
+      const summary = document.createElement('p');
+      summary.textContent = record.summary;
+      const links = document.createElement('div');
+      links.className = 'highlight-links';
+      links.append(actionLink(record.detailUrl.href, 'Highlight', false,
+        `Read highlight: ${record.title}`));
+      const paper = actionLink(record.paperUrl.href, 'Paper', true);
+      paper.dataset.highlightPaper = '';
+      links.append(paper);
+      if (record.codeUrl) links.append(actionLink(record.codeUrl.href, 'Code', true));
+      card.append(heading, summary, links);
+      items.append(card);
+    });
+    cards.replaceChildren(items);
+    render();
   }
 
   function render() {
@@ -94,16 +208,21 @@
   readCatalog(list);
   render();
 
-  const source = new URL(list.dataset.publicationSource, document.baseURI);
-  if (source.origin !== location.origin) return;
-  fetch(source, { cache: 'no-cache' })
-    .then((response) => {
-      if (!response.ok) throw new Error('Publication catalog unavailable');
-      return response.text();
-    })
-    .then((markup) => {
-      readCatalog(new DOMParser().parseFromString(markup, 'text/html'));
+  function loadMarkup(path, apply) {
+    const source = webUrl(path);
+    if (!source || source.origin !== location.origin) return;
+    fetch(source, { cache: 'no-cache' })
+      .then((response) => {
+        if (!response.ok) throw new Error('Selection source unavailable');
+        return response.text();
+      })
+      .then((markup) => apply(new DOMParser().parseFromString(markup, 'text/html'), source))
+      .catch(() => { /* Keep the readable generated cards and citations. */ });
+  }
+
+  loadMarkup(cards.dataset.highlightSource, renderHighlights);
+  loadMarkup(list.dataset.publicationSource, (root) => {
+      readCatalog(root);
       render();
-    })
-    .catch(() => { /* The matching fallback selection is already displayed. */ });
+  });
 })();
