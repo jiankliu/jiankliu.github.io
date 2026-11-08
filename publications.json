@@ -17,6 +17,35 @@
   ],
   "entries": [
     {
+      "title": "BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations",
+      "year": "2026",
+      "doi": "https://doi.org/10.48550/arXiv.2611.05581",
+      "paper_url": "https://arxiv.org/abs/2611.05581",
+      "meta": "S. Wang, R. Wu and J. K. Liu · British Machine Vision Conference (BMVC 2026)",
+      "source_url": "https://arxiv.org/abs/2611.05581",
+      "source_type": "new_publication",
+      "added_on": "2026-11-08",
+      "source_text": "Shixiao Wang, Rining Wu and Jian K. Liu. BrainBind: Bridging Synchronized EEG and fMRI through Long-Form Naturalistic Video Representations. Accepted at BMVC 2026. arXiv:2611.05581.",
+      "source_links": [
+        {
+          "text": "Paper",
+          "url": "https://arxiv.org/abs/2611.05581"
+        },
+        {
+          "text": "Code",
+          "url": "https://github.com/Forainest789/Brainbind"
+        }
+      ],
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/Forainest789/Brainbind",
+          "source_url": "https://github.com/Forainest789/Brainbind",
+          "source_label": "Code"
+        }
+      ]
+    },
+    {
       "title": "GPCR Ligand Bioactivity Prediction with Physics-Informed Dual-State Query Learning",
       "year": "2026",
       "doi": "https://doi.org/10.48550/arXiv.2609.16468",
