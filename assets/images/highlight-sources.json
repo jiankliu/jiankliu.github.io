@@ -65,6 +65,22 @@
       "bytes": 264811,
       "sha256": "3eb40f40117263619fd65af639f5af3395e641fced7d3edb93e20feaf510d138",
       "processing": "Downloaded source figure; preserved content and dimensions. Stored as PNG."
+    },
+    {
+      "id": "brainbind",
+      "path": "assets/images/highlight-brainbind.png",
+      "source_url": "user-supplied:brainbind-feature-figure.png",
+      "source_type": "user_attachment",
+      "source_description": "Feature illustration supplied by the user for the BrainBind research highlight.",
+      "added_on": "2026-11-08",
+      "dimensions": [
+        1024,
+        572
+      ],
+      "bytes": 1068074,
+      "sha256": "7fa4f2ba801b4167fece900c46b96ccc9124ea14b6c6ae9b3eb01613c50f7deb",
+      "processing": "Original supplied PNG retained without pixel edits; scaled responsively in the homepage card and research highlight."
     }
-  ]
+  ],
+  "updated_on": "2026-11-08"
 }
