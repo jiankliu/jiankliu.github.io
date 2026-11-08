@@ -42,9 +42,11 @@ List only papers that have a code link. The complete bibliography is linked thro
 
 ## Update selected work
 
-The section 02 cards in `index.html` are the source of the homepage selection. Keep `data-highlight-paper` on each card’s Paper link and update that link when selecting a different paper. Section 05 follows those links automatically on page load, including their order, and retrieves full titles, years and author/venue details from `publications.html`. Add the new paper there with its citation when updating a card. No separate section 05 selection needs to be maintained.
+The research highlights order controls the homepage. Its first two `.research-highlight` sections are featured in homepage section 02, including their pictures, descriptions and links. The homepage retrieves `research-highlights.html` on page load, so changing that page’s order also updates the selection without editing `index.html` separately. Section 05 follows the same two papers and retrieves full citations from `publications.html`.
 
-The generated HTML contains the current selected citations so they remain readable without JavaScript. Refresh that fallback when changing the cards. If the publication page cannot be loaded, existing matching citations remain available; an unlisted paper uses its card title and Paper link until its full citation is added.
+Add new records to `research-highlights.json` without an `added_at` field. When pages are regenerated, the generator assigns a creation timestamp, places each new addition first, and renumbers all highlights. Keep existing timestamps when editing a project; records with the same timestamp retain their stored order. Optional `home_title` and `home_kicker` fields provide shorter homepage wording. The first two records also generate the homepage’s readable fallback cards and citations.
+
+Keep `data-home-title`, `data-home-kicker`, `data-highlight-year`, and the Paper/Code attributes on each generated highlight section when editing HTML. The generated homepage remains usable if JavaScript is disabled or either source page cannot be fetched. Papers without a publication entry use the highlight title and year until their full citation is added.
 
 ## Update news
 
